@@ -1,0 +1,1904 @@
+NAME OF SCHOOL: MATER MISERICORDIAE SECONDARY SCHOOL, 
+RUMOMASI 
+TERM: FIRST 2026/2027 ACADEMIC SESSION  
+WEEK: ONE  
+CLASS: SS2  
+SUBJECT: Biology 
+TOPIC: Microorganism around us 
+Definition of Microorganisms 
+Microorganisms or microbes are microscopic organisms, mostly unicellular or 
+acellular that are too small to be seen with the naked human eye. They require 
+a light or electron microscope for observation. 
+They are ubiquitous (found everywhere), in soil, aquatic environments (fresh 
+water and marine), air, extreme environments (hot springs, deep ocean vents) 
+and as endosymbionts or parasites inside other organisms. The branch of 
+biology that entails the study of microorganisms is known as MICROBIOLOGY 
+Classification of Microorganisms 
+Microorganisms are grouped based on cellular structure (prokaryotic, 
+eukaryotic, or non-cellular), nutritional modes, and genetic material. 
+1. Bacteria: They are microorganism that can be seen with a light 
+microscope. 
+a. Cell Structure: Unicellular prokaryotes (lacking a membrane bound 
+nucleus and organelle structures). 
+b. Cell Wall Composition: Peptidoglycan (murein). 
+c. Morphological Shapes: Cocci (spherical)e.g Staphylococcus aureus, Bacilli 
+(rod shaped) Bacillus subtilis, Escherichia coli, Spirilla(spiral/twisted) e.g 
+Treponema pallidum, Vibrio (comma shaped) e.g Vibrio cholerae. 
+2. Viruses: They exist on the biological borderline between the living and 
+non-living world. They are acellular entities (they lack cellular structures 
+like a cytoplasm, cell membrane or ribosomes. 
+They cannot perform metabolic processes or reproduce on their own, they 
+are classified as obligate intracellular parasite: they must invade a living 
+host cell to replicate. Outside a host, they behave like non-living particles. 
+Examples include Human Immunodeficiency Virus (HIV), Influenza Virus, 
+Rabies Virus, Bacteriophages. 
+3. Microscopic Fungi 
+i) Cell Structure: Eukaryotic (containing a true nucleus and bound 
+organelles), can be unicellular(yeasts) or multicellular filament 
+forming structures(molds)’ 
+ii)  
+Cell Wall Composition: Chitin 
+iii) Nutrition: Heterotrophic (saprophytic or parasitic), they secrete 
+extracellular enzymes to digest organic substrates before absorption. 
+iv) Examples include: Saccharomyces cerevisiae (Baker’s yeast), Rhizopus 
+stolonifera (Bread mold), Penicillium chrysogenum. 
+4. Protozoa 
+i. 
+Cell Structure: Unicellular, heterotrophic eukaryotes. 
+ii. 
+Locomotion: Grouped by motility mechanisms: 
+Pseudopodia (false feet) e.g Amoeba proteus 
+Flagella (whip- like structures) e.g Trypanosoma gambiense 
+Cilia (hair-like structures) e.g Paramecium caudatum 
+Non- motile e.g Plasmodium falciparum. 
+5. Microscopic Algae 
+i. 
+Cell Structure: Unicellular or simple colonial photosynthetic 
+eukaryotes containing chlorophyll 
+ii. 
+Nutrition: Autotrophic(photosynthetic) 
+Meaning and Principles of Culturing Microorganisms 
+Microbial Culturing is the controlled laboratory technique of growing and 
+multiplying microorganisms in designated nutrient media under favorable 
+environmental conditions (temperature, pH, oxygen levels). 
+Concepts in Culturing 
+Culture Medium: A nutrient liquid broth or solid gel formulated with essential 
+carbon, nitrogen, mineral salts, and vitamins required for microbial growth. 
+Agar: A complex polysaccharide extracted from red algae, used as a solidifying 
+agent in culture media due to its inertness to microbial digestion. 
+Aseptic Technique: Sterilization protocols (e.g., autoclaving at 121°C/15 psi, 
+flaming inoculation loops) used to prevent unwanted microbial contamination. 
+Pure Culture: A culture medium containing only a single, isolated species or 
+strain of microorganism. 
+Importance & Applications of Culturing 
+1. Medical Diagnostics: Isolating and identifying pathogenic bacteria or fungi 
+from patient samples (blood, urine, swab) to determine antibiotic sensitivity. 
+2. Pharmaceutical Production: Mass cultivation of Penicillium species for 
+commercial antibiotic extraction. 
+3. Industrial Fermentation: Industrial culturing of Saccharomyces for 
+brewing and baking, or Lactobacillus for dairy products (yogurt, cheese). 
+Pathogens, Carriers, and Transmitting Organisms 
+Microorganisms that cause diseases in plants and animals are called 
+pathogens. Pathogens rely on specific reservoirs and transmission vectors to 
+spread between hosts. 
+Disease Carriers 
+A carrier is an infected individual (human or animal) who harbors a specific 
+pathogen without showing overt clinical signs or symptoms, yet remains 
+capable of transmitting the pathogen to susceptible individuals. 
+Asymptomatic Carrier: Harbors the pathogen continuously without 
+experiencing active illness (e.g., individuals carrying Salmonella typhi causing 
+Typhoid fever). 
+Convalescent Carrier: Continues to shed and transmit the pathogen while 
+recovering from an infection. 
+Vectors & Transmitting Organisms 
+A vector is an intermediate host organism (usually an arthropod) that 
+transfers a pathogenic microorganism from an infected host or reservoir to a 
+susceptible host. 
+Vector 
+Type 
+Transmission 
+Mechanism 
+Vector 
+Example 
+Pathogen 
+Carried 
+Disease 
+Caused 
+Biological 
+Pathogen 
+multiplies/develops 
+inside vector's 
+Female 
+Anopheles 
+mosquito 
+Plasmodium 
+falciparum 
+(Protozoan) 
+Malaria 
+body; transmitted 
+via bite. 
+Biological 
+Biological 
+Pathogen 
+transmitted 
+directly into 
+bloodstream via 
+blood-feeding bite. 
+Viral transmission 
+via blood feeding 
+bite. 
+Tsetse fly 
+(Glossina) 
+Trypanosoma 
+species 
+(Protozoan) 
+African 
+Sleeping 
+Sickness 
+Aedes 
+aegypti 
+mosquito 
+Flavivirus 
+Yellow 
+Fever / 
+Dengue 
+Mechanical Pathogen attaches 
+externally to 
+legs/body from 
+sewage/decay and 
+contaminates food. 
+Mechanical 
+External physical 
+transfer of 
+pathogens onto 
+uncovered food and 
+surfaces. 
+Housefly 
+(Musca 
+domestica) 
+Vibrio 
+cholerae 
+(Bacteria) 
+Cholera 
+Cockroach 
+(Periplaneta 
+americana) 
+Entamoeba 
+histolytica / 
+Salmonella 
+Amoebic 
+Dysentery / 
+Food 
+Poisoning 
+Assignment 
+1.Draw a simple structural diagram comparing the four main groups of 
+microorganisms. Label at least one distinct feature for each group (e.g Capsid, 
+cell wall material locomotion structure). 
+2. Differentiate clearly between a biological vector and a mechanical vector 
+using their mode of pathogen transfer and one specific organism. Example 
+for each. 
+NAME OF SCHOOL: MATER MISERICORDIAE SECONDARY SCHOOL, 
+RUMOMASI 
+TERM: FIRST 2026/2027 ACADEMIC SESSION  
+WEEK: TWO 
+CLASS: SS2 
+SUBJECT: Biology 
+TOPIC: Microorganism in action and better health 
+Beneficial and Harmful Effects of Microorganisms 
+Microorganisms (microbes) are microscopic organisms such as bacteria, 
+viruses, fungi, protozoa, and microscopic algae. While many are pathogenic 
+(disease-causing), numerous microbes play essential roles in medicine, 
+agriculture, food processing, and environmental sustainability. 
+Major groups of microorganisms and their characteristic structures. 
+Beneficial Effects of Microorganisms 
+I. 
+II. 
+III. 
+Medicine & Health: 
+• Antibiotic Production: Fungi such as Penicillium chrysogenum yield 
+penicillin; Streptomyces species produce streptomycin. 
+• Vaccines & Sera: Attenuated (weakened) or killed microbes stimulate 
+active immunity against severe pathogens. 
+• Gut Microbiota: Normal intestinal bacteria (e.g., Escherichia coli) 
+synthesize Vitamin K and Vitamin B complex while suppressing 
+pathogenic invaders. 
+Agriculture & Soil Fertility: 
+• Nitrogen Fixation: Rhizobium bacteria in legume root nodules and free
+living Azotobacter convert atmospheric nitrogen into soil nitrates. 
+• Decomposition & Nutrient Cycling: Saprophytic bacteria and fungi 
+break down dead organic matter, recycling essential elements (carbon, 
+nitrogen, phosphorus). 
+Industry & Biotechnology: 
+Food & Beverage Processing: Saccharomyces cerevisiae (yeast) ferments 
+sugars into ethanol and CO₂ (baking and brewing). Lactobacillus species 
+ferment lactose to lactic acid for yogurt and cheese production. 
+Sewage Treatment: Aerobic bacteria digest dissolved organic wastes in 
+municipal sewage purification plants. 
+Harmful Effects of Microorganisms 
+1. Human & Animal Diseases: Pathogens cause infections such as cholera 
+(Vibrio cholerae), tuberculosis (Mycobacterium tuberculosis), malaria 
+(Plasmodium spp.), and influenza. 
+2. Plant Diseases: Microbes cause significant crop damage, e.g., cassava 
+mosaic virus, maize rust, and potato late blight (Phytophthora infestans). 
+3. Food Spoilage: Saprophytic bacteria and molds decompose raw and cooked 
+food. Clostridium botulinum releases lethal neurotoxins causing botulism. 
+4.Material Deterioration: Cellulolytic bacteria and fungi degrade timber, 
+paper, textiles, and leather goods. 
+Control of Harmful Microorganisms & Public Health 
+Controlling microbial growth eliminates pathogens and halts disease 
+transmission cycles within communities. Methods are categorized into 
+physical, chemical, and public health measures. 
+Disease transmission cycle and critical public health intervention points. 
+Physical Control Methods 
+High Temperature: Boiling water (100°C for 10–15 mins) kills vegetative 
+bacterial cells. Autoclaving uses moist steam under pressure (121°C for 15 
+mins) to destroy heat-resistant bacterial endospores. 
+Pasteurization: Heating milk/liquids to 72°C for 15 seconds followed by rapid 
+cooling eliminates pathogens without destroying flavor or nutritional value. 
+Low Temperature & Dehydration: Refrigeration (4°C) and freezing (-18°C) 
+exert a bacteriostatic effect (halting growth). Desiccation removes moisture 
+necessary for enzymatic activity. 
+Radiation: Ultraviolet (UV) radiation and gamma rays sterilize surgical 
+instruments, pharmaceuticals, and packaged food. 
+Chemical Control Methods 
+Disinfectants: Strong chemical agents applied to non-living inanimate 
+surfaces to destroy microbes (e.g., bleach, Lysol, phenol). 
+Antiseptics: Mild chemical solutions safe for application on living tissue and 
+wounds to prevent infection (e.g., 70% ethanol, iodine, hydrogen peroxide). 
+Preservatives: Table salt, sugar, and vinegar inhibit microbial activity via 
+osmotic dehydration or by lowering pH. 
+Public Health Measures & Vector Control 
+Safe Water Provision: Purification of municipal water through sedimentation, 
+filtration, and chlorination. 
+Proper Waste Disposal: Underground sewage systems, sanitary pit latrines, 
+and managed landfills prevent insect vector breeding. 
+Vector Eradication: Use of Long-Lasting Insecticide-treated Nets (LLINs) and 
+indoor spraying against mosquitoes; food protection against houseflies (Musca 
+domestica). 
+Immunization Programs: Routine mass vaccination builds herd immunity 
+against polio, measles, diphtheria, and yellow fever. 
+Quarantine & Isolation: Enforced restriction of infected individuals or animal 
+products during epidemic disease outbreaks. 
+Maintenance of Good Health 
+Good health is a state of complete physical, mental, and social well-being. 
+Maintaining health relies on three primary pillars: 
+Personal Hygiene: Frequent handwashing with soap under clean running 
+water (especially before meals and after toilet use). Daily bathing, oral hygiene 
+twice daily, and keeping fingernails trimmed short to eliminate dirt and 
+parasite eggs. 
+Environmental Sanitation: Keeping living spaces, kitchens, and toilets clean 
+and well-ventilated. Disposing of domestic refuse in covered bins and draining 
+stagnant water pools to prevent mosquito breeding. 
+Healthy Lifestyle Factors: Consuming a balanced diet rich in essential 
+micronutrients (Vitamin C, Zinc) to fortify immunity. Engaging in regular 
+physical exercise and ensuring 7–8 hours of restful sleep daily for tissue 
+recovery. 
+Roles of Health Organizations 
+1.World Health Organization (WHO): This is a specialized division of the United 
+Nations Organization (UNO), now known as the United Nations, established in 
+1948 with headquarters in Geneva, Switzerland. Its major aim is to improve the 
+health of the people in all the countries of the world. 
+2.United Nations Children’s Fund (UNICEF): The UNICEF, another special 
+agency of the United Nations Organistion, now known as the United Nations, 
+was set up to improve the health and welfare of the children all over the world. 
+3.Nigerian Medical Association (NMA) 
+The Nigerian Medical Association (NMA) is a national body concerned with the 
+maintenance of good health within Nigeria. 
+Assignment 
+1. Outline three public health interventions required to prevent an outbreak of 
+cholera in a flood-affected community. 
+2. Describe how pasteurization differs from standard boiling in terms of 
+temperature, duration, and effect on liquid nutrients. 
+3. List three personal hygiene practices and explain how each prevents 
+pathogen invasion into the human body. 
+Evaluation(student) 
+1. Identify the beneficial and harmful effects of some microbes.  
+2. Describe physical and chemical methods used to control harmful 
+microorganisms. 
+3. Outline public health measures and control strategies implemented to 
+prevent infectious microbial diseases. 
+4. Enumerate essential personal hygiene practice for maintaining good 
+health. 
+NAME OF SCHOOL: MATER MISERICORDIAE SECONDARY SCHOOL, 
+RUMOMASI 
+TERM: FIRST 2026/2027 ACADEMIC SESSION  
+WEEK: THREE 
+CLASS: SS2 
+SUBJECT: Biology 
+TOPIC: Aquatic Habitat (Marine Habitats) 
+Procedure (content development)  
+Characteristics/features of Marine Habitat 
+A marine habitat is an aquatic environment composed of saltwater, 
+encompassing all oceans and seas. It covers approximately 70% of the earth's 
+surface and serves as the largest global aquatic biome, supporting diverse 
+ecosystems. 
+Characteristics of Marine Habitat 
+The marine or salt water habitats possess the following key physical and 
+chemical characteristics: 
+1. Salinity: Salinity is defined as the degree of saltiness or concentration of 
+salt solution in oceans. Marine habitats have high salinity, with an average 
+salinity put at 35.2 per 1000 (35.2 parts of salts by weight per 1000 parts of 
+water). 
+2. Density: The density of marine water is high (~1.028) compared to fresh 
+water (1.00). Hence, many organisms can easily float on ocean water. 
+3. Pressure: Water pressure increases with depth at the rate of one 
+atmosphere for every 10 meters, varying from 1 atm at the surface to about 
+1000 atm at extreme depths. 
+4. Size: Marine habitats represent the largest of all habitats. Oceans alone 
+occupy over 70% (approx. 360 million km²) of the Earth's total surface area 
+(510 million km²). Examples include the Atlantic, Indian, and Pacific Oceans. 
+5. Currents: Currents are produced by wind action at the surface and by 
+internal variations in salinity and temperature deeper in the ocean. 
+6. Tides: Tides are the periodic rise and fall of the ocean surface (occurring 
+roughly twice daily), caused by the gravitational attraction of the moon and 
+sun. 
+7. Oxygen Concentration: Highest at the surface level where atmospheric 
+exchange occurs; oxygen concentration decreases with depth, becoming 
+practically non-existent in extreme depths. 
+8. Hydrogen Ion Concentration (pH): Seawater is alkaline in nature with a 
+typical pH ranging between 8.0 and 9.0 near the surface. 
+9. Waves: Movements of surface waters caused by winds that facilitate 
+continuous mixing of seawater near the surface. 
+10. Light Penetration: Light penetrates ocean water up to a maximum depth 
+of about 200 meters (Euphotic zone), directly limiting plant life to these upper 
+illuminated layers. 
+Major Zones of the Marine Habitat  
+Supratidal (Splash) Zone Area above the high-tide mark receiving moisture 
+from ocean splash and wave action. 
+Intertidal (Neritic) Zone 
+Area between high and low tides, characterized by 
+high light penetration, fluctuating water 
+temperatures, and continuous wave movement. 
+Littoral (Subtidal) Zone 
+Extends down to roughly 200m depth; 
+continuously submerged, receives abundant 
+sunlight, and contains rich nutrient supplies. 
+Benthic Zone 
+Extends down to about 500m depth; characterized 
+by low light penetration and low nutrient 
+availability. 
+Pelagic / Abyssal Zone 
+Reaches depths of about 7000m; cold, high 
+pressure, low light penetration, and low primary 
+organic productivity. 
+Hadal (Aphotic) Zone 
+Deepest marine zones (>7000m depth) forming 
+ocean trench beds with absolute darkness and no 
+photosynthetic activity. 
+Distribution of organisms in habitats  
+Organisms in marine environments are distributed into three main ecological 
+groups: 
+1. Plankton (Floating organisms): Drifting microscopic organisms found 
+mainly in the lighted upper zone. 
+Phytoplankton (Producers): Microscopic plant-like algae (e.g., Diatoms, 
+Dinoflagellates) that carry out photosynthesis. 
+Zooplankton (Consumers): Microscopic animals (e.g., Protozoa, 
+Copepods, jellyfish larvae). 
+2. Nekton (Active swimmers): Animals capable of swimming strongly 
+against water currents (e.g., Tilapia, Tuna, Sharks, Whales, Sea Turtles, 
+Squids). 
+3. Benthos (Bottom dwellers): Organisms attached to or crawling on the 
+sea floor (e.g., Sea Anemones, Corals, Sea Urchins, Crabs, Starfish, Sea 
+Cucumbers). 
+Adaptive features of marine organisms  
+Plant Adaptations 
+Salt Water Swamp Plants: Possess succulent stems/roots to dilute salt 
+concentration. 
+Have pneumatophores (breathing roots) for atmospheric gas exchange. 
+Stilt roots provide structural anchorage in mud. 
+Viviparous seedlings ensure survival and continuity. 
+Excrete excess salt to maintain internal body salt balance. 
+Seaweeds: Holdfast structures for firm attachment to rocks. 
+Mucilaginous outer layer prevents desiccation. 
+Divided leaves and air bladders for buoyancy in water. 
+Animal Adaptations 
+Barnacles: Possess protective mantles or attachment pads to firmly anchor 
+onto rocks, preventing desiccation during low tide. 
+Cartilaginous Fishes (e.g., Sharks, Dogfish): Maintain high internal salt 
+balance and body osmotic pressure to adapt to high ocean salinity. 
+Bony Fishes (e.g., Tilapia, Herring): Drink salt water to cope with high 
+salinity and utilize salt-secreting glands in their gills or eyes to excrete excess 
+salt. 
+Shrimps: Equipped with powerful chelipeds (claws) for capturing and 
+holding prey. 
+Crabs: Burrow rapidly into coastal mud to protect against wave action, 
+tides, and predators. 
+Periwinkles: Possess modified lungs for breathing air during exposure and 
+a strong muscular foot for firm attachment. 
+Starfish: Utilize tube feet to hold securely onto rocky shores and hard 
+outer shells to prevent desiccation. 
+. 
+Diagram showing Adaptive Features of Marine Plants (Holdfast & Air Bladder) and Animals (Swim Bladder 
+& Gills) 
+Assignment 
+1.Mention five threats to marine habitats. 
+2.Explain five ways of conserving marine habitat. 
+NAME OF SCHOOL: MATER MISERICORDIAE SECONDARY SCHOOL, 
+RUMOMASI 
+TERM: FIRST 2026/2027 ACADEMIC SESSION  
+WEEK: FOUR 
+CLASS: SS2 
+SUBJECT: Biology 
+TOPIC: Estuarine Habitats 
+Types of Estuarine Habitat 
+An estuarine habitat (or estuary) is a semi-enclosed coastal body of water 
+where fresh water from rivers and streams meets and mixes with salt water 
+from the ocean. This mixing produces brackish water, which has a salinity 
+intermediate between fresh water (<0.5‰) and full seawater (~35‰). 
+Estuaries are highly dynamic transition zones (ecotones) affected by tidal 
+fluctuations, high nutrient loads, and fluctuating environmental parameters. 
+Types of Estuaries 
+1. Delta: A delta is where a river divides into many channels before entry 
+into the ocean or sea. Brackish water or estuary (delta) is formed at the 
+mouth of a river as it enters the sea. 
+2. Lagoon: This is a body of ocean water that enters into the land through a 
+canal and therefore has the opportunity of mixing with fresh water from 
+rivers and streams. 
+3. Bay: This is a little or small portion of the sea water which enters into 
+the land and mixes up with fresh water from rivers and streams. A bay is 
+very small and not long enough to rejoin the sea at another end. 
+Characteristics of Estuarine Habitats 
+The following are the principal characteristics of estuarine habitats: 
+(1) Fluctuation in salinity: Salinity fluctuates in this habitat. Salinity is 
+lower at the mouth of a river and gets higher towards the sea. Salinity is 
+also affected by season: while the rainy season reduces salinity due to the 
+addition of fresh water, the dry season increases it. 
+(2) Turbidity: Turbidity of estuarine habitats increases especially during 
+the rainy season when lots of debris are brought down by rivers to the 
+habitat. This high turbidity also reduces the rate of photosynthesis and 
+respiration by organisms. 
+(3) Shallowness of water: Unlike sea water which is deep, the water in an 
+estuarine habitat is generally very shallow. 
+(4) Low species diversity: The estuarine habitat has low diversity of 
+species compared to marine habitats. Common plant species include 
+phytoplankton, algae, and marsh vegetation, while animal species include 
+crabs, oysters, lobsters, etc. 
+(5) Water is affected by tides: Sea water usually flows rapidly into 
+estuaries at high tides and rushes back into the ocean at low tides. 
+(6) High level of nutrients: The estuarine habitats contain abundant 
+nutrients, especially organic detritus, which form the bulk of producers in 
+the habitat. 
+(7) Low oxygen content: Oxygen content of estuarine habitats is generally 
+very low and, as a result, much of the microbiological activity is anaerobic. 
+Distribution of Plants and Animals in Estuarine Habitats 
+Plant Species and Their Adaptive Features 
+(1) Planktons (diatoms): They possess air spaces in their tissues, rhizoids 
+or false feet for attachment to rocky shores, and air bladders for buoyancy. 
+(2) Algae: They possess chlorophyll for photosynthetic activities and a small 
+size or large surface-area-to-volume ratio for floating. 
+(3) Red mangrove (Rhizophora racemosa): It has stilt roots which grow 
+down from the stem into the soft mud and develop numerous rootlets with 
+air spaces for conducting air to root tissues. The roots also provide support 
+and prevent plants from being washed away by tides. Furthermore, the 
+seeds of red mangrove germinate while still on the parent plant (vivipary), 
+preventing seedlings from being carried away by water currents. 
+(4) White mangrove (Avicennia nitida): It has pneumatophores (breathing 
+roots) for gaseous exchange. 
+Animal Species and Their Adaptive Features 
+(1) Mosquito larvae and pupae: These organisms possess breathing 
+trumpets for gaseous exchange. 
+(2) Crabs: They can burrow fast into the mud for protection against 
+predators, strong waves, or tides. 
+(3) Water snails and shrimps: These animals can burrow into the mud 
+when the tide is going out, thus escaping the periodic dilution of their 
+external medium. 
+(4) Worms: They have strong, protective, impermeable coverings against 
+high salinity. 
+(5) Mudskippers: These animals have modified fins adapted for crawling 
+when on land and for swimming when in water. 
+(6) Fishes: Fishes like Tilapia have fins for movement and a swim bladder 
+for buoyancy control. 
+Food Chain in Estuarine Habitats 
+A typical food chain in an estuarine habitat may contain up to three, four, or 
+five trophic levels. Phytoplankton (such as diatoms) and organic detritus form 
+the primary producers supporting the food chain. 
+Examples of Food Chains in Estuarine Habitats: 
+(i)   Detritus → Worms → Snails → Birds 
+(ii)  Diatoms → Shrimps → Fishes 
+(iii) Phytoplankton → Barnacles → Fish → Birds 
+Factors Affecting Estuarine Habitats 
+The environmental factors affecting estuarine habitats are common to most 
+aquatic ecosystems and include: 
+Temperature 
+Relative humidity 
+Light intensity & penetration 
+pH (Acidity / Alkalinity). 
+Assignment 
+1.Describe the estuarine habitat under the following headings: 
+a) Meaning of estuarine habitat 
+b) Characteristics 
+c) Plants and animals found there 
+d) Adaptations of organisms 
+e) Economic importance 
+NAME OF SCHOOL: MATER MISERICORDIAE SECONDARY SCHOOL, 
+RUMOMASI 
+TERM: FIRST 2026/2027 ACADEMIC SESSION  
+WEEK: FIVE 
+CLASS: SS2 
+SUBJECT: Biology 
+TOPIC: Fresh water Habitats 
+Types and characteristics of fresh water habitat 
+Fresh water habitat is a body of water formed mainly from inland waters and 
+contain a very low level of salinity. Examples of fresh water habitat are rivers, 
+ponds, streams, springs and lakes. Freshwater habitats are classified primarily 
+based on the mobility or movement direction of the water body into two distinct 
+categories: Lotic (Running) Waters and Lentic (Stagnant) Waters. 
+Lotic (Running) Waters: Waters that flow continuously in a specific direction. 
+They possess strong water currents, high oxygen concentration due to constant 
+aeration, and are generally non-stratified. Examples are Rivers, streams, 
+springs, brooks, waterfalls. 
+Lentic (Stagnant) Waters: Standing or calm waters that do not flow in a 
+specific direction. They accumulate organic sediments, undergo thermal/light 
+stratification, and exhibit distinct zonation. Examples are Lakes, ponds, 
+swamps, dams, reservoirs, bogs. 
+Characteristics of Fresh Water Habitats 
+Low Salinity: Freshwater habitats contain very low levels of dissolved salts 
+(typically around 0.5% or less), compared to oceans which average about 3.5% 
+(35 parts per thousand). 
+Small Relative Size: Freshwater habitats occupy a very small proportion of 
+Earth's total water surface compared to marine habitats, which cover over 75% 
+of the Earth's surface. 
+Temperature Variations: Temperature fluctuates with seasonal changes, 
+weather, and depth. In lentic bodies, surface water is slightly warmer than 
+bottom mud during warm periods. 
+High Dissolved Oxygen Content: Oxygen is readily available in most 
+freshwater zones, particularly in fast-flowing lotic waters and the surface layer 
+of lentic bodies. 
+Shallowness: Most freshwater habitats are relatively shallow compared to 
+marine oceans, allowing light to easily penetrate to the substrate in many 
+areas. 
+Seasonal Volume Variation: Streams and rivers experience high volume, swift 
+currents, and increased turbidity during rainy seasons, but dry up or shrink 
+significantly in dry seasons. 
+Current Action: Unidirectional currents in lotic environments distribute 
+dissolved gases, salts, nutrients, and microorganisms while acting as a 
+physical challenge to non-adapted organisms. 
+Ecological Zones of Fresh Water Habitats 
+1. Lentic Habitat Zones (e.g., Lakes and Ponds) 
+Lentic habitats display two primary vertical ecological zones based on light 
+penetration, rooted vegetation, and depth: 
+Littoral Zone: The shallow edge/margin of the water body where sunlight 
+easily penetrates to the bottom sediment. It features rooted vegetation, warm 
+temperatures, maximum dissolved oxygen, and the highest primary biological 
+productivity. 
+Plants: Spirogyra, Chlamydomonas, water fern, duckweed, water lettuce 
+(Pistia), diatoms, sedges. 
+Animals: Water fleas, water snails, flatworms, frogs, toads, water skaters 
+(Gerri’s), ducks, snakes, crocodiles, tadpoles, Hydra, hippopotamus. 
+Benthic Zone: The deep bottom region composed of organic mud and 
+substrate (humus). Although rooted vegetation like littoral plants is absent at 
+the base, floating plants with deep-anchored roots exist here. Light is limited, 
+and organic decomposition is high. 
+Plants: Water lily (Nymphaea), water arum, ferns, Crinum lily, Commelina, 
+submerged water grasses. 
+Animals: Protozoa, rotifers, Hydra, tilapia fish, mudfish, catfish, leeches, 
+caddisfly larvae, mosquito larvae/pupae, water spider, crayfish, water scorpion, 
+water boatman, water bugs. 
+2. Lotic Habitat Zones (e.g., Rivers and Streams) 
+In lotic (running) water ecosystems, zones are differentiated by water flow 
+velocity and pool depth: 
+Pool Zone: Deeper regions of the river where water flow is relatively slow, calm, 
+and peaceful. Fine silt and organic matter settle here. 
+Rapid Zone: Shallow areas where water flows swiftly over rocky substrates. 
+Aeration is maximum, but thermal stratification does not occur due to 
+continuous mixing. 
+Eutrophication in Freshwater Ecosystems 
+Eutrophication is defined as the excessive growth of plant life or algal blooms 
+in a body of water, caused by an enrichment of organic nutrients and minerals, 
+ultimately leading to severe oxygen depletion and the collapse of aquatic life. 
+Major Causes of Eutrophication: 
+Overuse of agricultural fertilizers containing nitrates and phosphates, which 
+wash into rivers/lakes during heavy rainfall. 
+Discharge of untreated domestic sewage and organic waste runoff from fish 
+farming operations. 
+Adaptive Features of Freshwater Organisms 
+Organisms inhabiting fresh waters face challenges such as osmotic water gain 
+(due to hypotonic water), strong water currents in lotic habitats, and light 
+limitations in deep lentic habitats. Below are their key structural, physiological, 
+and behavioral adaptations. 
+Adaptive Features of Freshwater Plants 
+Plant Organism 
+Structural / Adaptive 
+Feature 
+Ecological Survival 
+Function 
+Water lily 
+(Nymphaea) 
+Air bladders, broad 
+expanded floating leaves, 
+light weight, long central 
+petioles attached to base 
+mud. 
+Air bladders and broad 
+leaves keep the plant 
+afloat. Long petioles 
+prevent leaves from 
+being pulled underwater 
+by water currents. 
+Plant Organism 
+Structural / Adaptive 
+Feature 
+Ecological Survival 
+Function 
+Water hyacinth 
+(Ipo 
+Spirogyra 
+Spongy leaf stalks with 
+numerous cavities and 
+large intercellular air 
+spaces. 
+Traps air within tissues 
+to provide buoyancy and 
+float on the water 
+surface. 
+Outer protective 
+mucilaginous sheath 
+covering the filamentous 
+body. 
+Protects the algae from 
+decay, reduces friction, 
+and prevents physical 
+damage from water 
+currents. 
+Water lettuce 
+(Pistia) 
+Hornwort 
+(Ceratophyllum) 
+Dense, fine microscopic 
+hairs covering the leaf 
+surface. 
+Traps air bubbles 
+between hairs, making 
+the leaves water
+repellent and helping the 
+plant float. 
+Submerged, highly 
+dissected, thin thread
+like leaves. 
+Increases surface area 
+for maximum sunlight 
+absorption and efficient 
+gaseous exchange 
+underwater. 
+Water weed 
+(Elodea) 
+Long, slender, flexible 
+submerged petioles and 
+stems. 
+Enables the plant to 
+bend gracefully and flex 
+with water currents 
+without breaking. 
+Adaptive Features of Freshwater Animals 
+Animal Organism Structural / Adaptive 
+Feature 
+Ecological Survival 
+Function 
+Protozoa 
+(Amoeba/Paramecium) 
+Contractile vacuoles. Performs osmoregulation 
+by collecting and 
+expelling excess water 
+entering the cytoplasm 
+via osmosis. 
+Tilapia Fish Hydrodynamic body 
+shape, internal swim 
+bladder, highly 
+vascularized gills. 
+Swim bladder controls 
+buoyancy; gills enable 
+underwater gaseous 
+exchange; streamlined 
+shape minimizes friction. 
+Duck Webbed feet digits; 
+serrated filtering beak. 
+Webbed digits act as 
+paddles for swimming; 
+serrated beak sieves 
+plankton and small food 
+particles from mud. 
+Lungfish 
+(Protopterus) 
+Dual breathing organs 
+(gills & functional lungs); 
+ability to secrete mucus 
+cocoon. 
+Uses gills in water; uses 
+lungs to breathe 
+atmospheric air during 
+dry seasons by burrowing 
+into mud (estivation). 
+Hydra Slippery body outer layer, 
+adhesive foot disc, hooks, 
+suckers, and 
+nematocysts. 
+Suckers and sticky disc 
+enable secure attachment 
+to water plants; 
+nematocysts capture 
+prey. 
+Pond skaters 
+(Gerris) 
+Long slender legs 
+equipped with water
+repellent hair fringes. 
+Distributes weight to 
+skate across water 
+surface tension without 
+breaking through. 
+Animal Organism Structural / Adaptive 
+Feature 
+Ecological Survival 
+Function 
+Water boatman Hydrofuge body hairs 
+that trap air bubbles 
+beneath wings. 
+Carries a bubble of 
+atmospheric air 
+underwater to serve as a 
+physical gill for 
+respiration. 
+
+Comparative Adaptations: Stagnant (Lentic) vs. Running (Lotic) Waters 
+Ecological Adaptation 
+Category 
+Stagnant Water 
+Adaptations 
+(Lentic Ecosystems) 
+Running Water 
+Adaptations 
+(Lotic Ecosystems) 
+Plant Adaptations • Broad floating leaves 
+with air bladders 
+(Water lily, Hyacinth). 
+• Fine leaf hairs to trap 
+air (Water lettuce). 
+• Flexible stems 
+anchored in soft mud. 
+• Flexible, stream-line 
+dissected leaves 
+(Hornwort, Elodea) to 
+resist tearing. 
+• Strong root anchoring 
+systems in 
+gravel/rocks. 
+• Thick mucilage 
+coating (Spirogyra). 
+Animal Adaptations 
+(Morphology) 
+• Surface tension 
+skimmers (Pond 
+skaters). 
+• Air-holding structures 
+(Water boatman air 
+bubble). 
+• Buoyancy organs 
+(Swim bladders). 
+• Flattened bodies to 
+slip under rocks. 
+• Suckers, hooks, 
+sticky foot discs (Hydra, 
+Leeches). 
+• Strong muscle 
+swimmers with 
+streamlined bodies. 
+Respiration & Survival • Gills & Lungs for 
+estivation in mud 
+(Lungfish). 
+• Contractile vacuoles 
+for osmoregulation. 
+• Highly developed gill 
+surface area to absorb 
+abundant dissolved 
+oxygen in rapids. 
+Food Chains and Energy Flow in Fresh Waters 
+Freshwater Food Chains 
+Diatoms (Producer) → Fish fry (Primary Consumer) → Tilapia (Secondary 
+Consumer) 
+Detritus (Organic waste) → Worm (Primary Consumer) → Shrimps (Secondary 
+Consumer) → Water Bird (Tertiary Consumer) 
+Spirogyra (Producer) → Tadpoles (Primary Consumer) → Carps (Secondary 
+Consumer) → Kingfisher (Tertiary Consumer) 
+Energy Flow Pathway 
+Radiant Solar Energy is absorbed by green plants and phytoplankton 
+(producers) for photosynthesis to synthesize organic carbohydrates. 
+Herbivores (zooplankton, tadpoles) consume producers directly (primary 
+consumer level). 
+Carnivores (small/large fish, water birds) obtain energy indirectly by feeding 
+on herbivores. 
+Decomposers (saprophytic fungi and bacteria) break down organic wastes and 
+dead bodies, releasing inorganic nutrients back into the mud. 
+Energy Loss: At each trophic transfer level, a significant proportion of energy is 
+lost as heat through respiration and metabolic activities. 
+Factors Affecting Fresh Water Habitats 
+Freshwater ecosystems are regulated by both biotic and abiotic ecological 
+factors: 
+Biotic Factors: Producers (green plants, diatoms, algae), Consumers (fish, 
+tadpoles, insects, aquatic birds), Parasites, and Decomposers (bacteria, 
+saprophytic fungi). 
+Abiotic Factors: Water current velocity, temperature, dissolved oxygen 
+content, salinity level, water turbidity/clarity, pH, and sunlight penetration 
+depth. 
+Assignment 
+1.With the aid of a detailed flowchart/diagram, describe the step-by-step 
+process of eutrophication and its ultimate impact on aquatic life. 
+2. Construct a food chain consisting of four trophic levels in a freshwater 
+habitat and explain how energy is lost from producers to decomposers 
+NAME OF SCHOOL: MATER MISERICORDIAE SECONDARY SCHOOL, 
+RUMOMASI 
+TERM: FIRST 2026/2027 ACADEMIC SESSION  
+WEEK: SIX 
+CLASS: SS2 
+SUBJECT: Biology 
+TOPIC: Terrestrial Habitats 
+SUB TOPIC: Features, Formation, types of Marshes and adaptation of  
+Features of Marsh 
+Terrestrial habitats refer to life on earth. The nature of soil, rainfall and 
+temperature are the major factors affecting the nature of terrestrial habitats. 
+Terrestrial habitat is divided into four groups namely: Marsh, Rainforest, 
+Savanna or Grassland and Arid.  
+Marshy Habitats 
+Marshy habitat is defined as a lowland habitat which is usually flooded or 
+water logged all the time. Naturally, grasses and shrubs grow in marsh but 
+when trees grow there, it is called a swamp. Marsh is often regarded as a 
+transition between the aquatic and terrestrial habitats. 
+Features of Marsh Habitats: 
+1. Waterlogged & Anaerobic Soil: The ground remains saturated with 
+water for extended periods, creating an oxygen-depleted (anaerobic) 
+underground environment that slows organic decomposition. 
+2. Herbaceous Plant Dominance: Trees are largely absent; non-woody 
+plants with soft, flexible stems dominate the landscape. 
+3. Shallow Water Level: Water depth typically ranges from a few 
+centimeters to about a meter, allowing sunlight to reach the substrate 
+and support dense vegetation. 
+4. High Organic Accumulation: Partially decayed plant material 
+accumulates to form nutrient-rich mud, silt, and peat deposits. 
+5. Dynamic Salinity Levels: Depending on geographical location, salinity 
+can range from completely fresh to brackish or hypersaline coastal water 
+Formation of Marshes (Ecological Succession) 
+Stage 1: Sediment Accumulation: Slow moving rivers, streams, or coastal tides 
+deposit fine silt, clay, and organic debris in low lying shallow water basins. 
+Stage 2: Shallowing of water: Continuous deposition reduces water depth, 
+enabling sunlight to penetrate the basin floor and creating ideal conditions for 
+plant attachment. 
+Stage 3: Pioneer Colonization: water tolerant herbaceous species (e.g. reeds, 
+sedges, cattails) take root in the soft mud, Marshes develop gradually through 
+a process of ecological succession in areas with poor drainage and continuous 
+sediment input: stabilizing the sediment with their root networks. 
+Stage 4: Organic Maturation: As plant material dies and decays, organic peat 
+accumulates, raising the ground level and establishing a mature marsh 
+ecosystem. 
+Types of Marshes 
+There are two types of marshes. These are freshwater marshes and salt water 
+marshes. 
+Freshwater marshes: Fresh water marshes occur on land, just beyond the 
+limits of the salt water marshes and beyond the areas influenced by tide. In 
+this area, fresh water from rivers overflows the river banks to flood the 
+adjoining lowlands resulting in the formation of fresh water marshes. 
+Saltwater marshes: Saltwater marshes occur along the coastal areas and they 
+are influenced by tides because the water along the coast is salty, it mixes up 
+with fresh water from rivers to form brackish water. The action of tide in the 
+ocean causes the flooding of adjoining lowlands with brackish water resulting 
+in the formation of salt water marshes. 
+Typical Marsh Organisms and Adaptive Features 
+Organisms living in marsh habitats face severe environmental challenges, 
+including waterlogging, oxygen-depleted mud, fluctuating water levels, and 
+variable salinity. Below are key adaptive features of representative marsh flora 
+and fauna: 
+Category 
+Organism 
+Structural / 
+Physiological 
+Adaptation 
+Survival 
+Function 
+Flora (Plants) 
+Cattail (Typha) 
+Spongy 
+Aerenchyma 
+Tissues 
+Transports 
+atmospheric 
+oxygen down to 
+roots submerged 
+in anaerobic mud. 
+Flora (Plants) 
+Flora (Plants) 
+Water Lily 
+(Nymphaea) 
+Cordgrass 
+(Spartina) 
+Swollen Air-filled 
+Petioles 
+Provides buoyancy 
+to floating leaves 
+and prevents 
+submergence. 
+Specialized Salt 
+Glands 
+Fauna (Animals) Frogs & Toads 
+Fauna (Animals) 
+Mudskipper 
+Moist Skin & 
+Webbed Feet 
+Excretes excess 
+salt absorbed from 
+brackish/salt 
+water. 
+Enables 
+cutaneous 
+respiration 
+underwater and 
+efficient paddling 
+in mud. 
+Enlarged Water
+Retaining Gill 
+Chambers 
+Allows respiration 
+out of water while 
+crawling over mud 
+banks. 
+Fauna (Animals) Heron / Egret 
+Assignment 
+Long Stilt Legs & 
+Spread Toes 
+Wades through 
+water without 
+wetting plumage; 
+toes prevent 
+sinking in mud. 
+Draw a large, neatly labeled diagram of a wading bird (e.g., Heron or Egret). 
+Annotate at least THREE structural adaptations that enable it to thrive in a 
+marsh habitat. 
+ NAME OF SCHOOL: MATER MISERICORDIAE SECONDARY SCHOOL, 
+RUMOMASI 
+TERM: FIRST 2026/2027 ACADEMIC SESSION  
+WEEK: ONE 
+CLASS: SS2 
+SUBJECT: Biology 
+TOPIC: Microorganism around us 
+Definition of Microorganisms 
+Microorganisms or microbes are microscopic organisms, mostly unicellular or 
+acellular that are too small to be seen with the naked human eye. They require 
+a light or electron microscope for observation. 
+They are ubiquitous (found everywhere), in soil, aquatic environments (fresh 
+water and marine), air, extreme environments (hot springs, deep ocean vents) 
+and as endosymbionts or parasites inside other organisms. The branch of 
+biology that entails the study of microorganisms is known as MICROBIOLOGY 
+Classification of Microorganisms 
+Microorganisms are grouped based on cellular structure (prokaryotic, 
+eukaryotic, or non-cellular), nutritional modes, and genetic material. 
+1. Bacteria: They are microorganism that can be seen with a light 
+microscope. 
+a. Cell Structure: Unicellular prokaryotes (lacking a membrane bound 
+nucleus and organelle structures). 
+b. Cell Wall Composition: Peptidoglycan (murein). 
+c. Morphological Shapes: Cocci (spherical)e.g Staphylococcus aureus, Bacilli 
+(rod shaped) Bacillus subtilis, Escherichia coli, Spirilla(spiral/twisted) e.g 
+Treponema pallidum, Vibrio (comma shaped) e.g Vibrio cholerae. 
+2. Viruses: They exist on the biological borderline between the living and 
+non-living world. They are acellular entities (they lack cellular structures 
+like a cytoplasm, cell membrane or ribosomes. 
+They cannot perform metabolic processes or reproduce on their own, they 
+are classified as obligate intracellular parasite: they must invade a living 
+host cell to replicate. Outside a host, they behave like non-living particles. 
+Examples include Human Immunodeficiency Virus (HIV), Influenza Virus, 
+Rabies Virus, Bacteriophages. 
+3. Microscopic Fungi 
+i) Cell Structure: Eukaryotic (containing a true nucleus and bound 
+organelles), can be unicellular(yeasts) or multicellular filament 
+forming structures(molds)’ 
+ii)  
+Cell Wall Composition: Chitin 
+iii) Nutrition: Heterotrophic (saprophytic or parasitic), they secrete 
+extracellular enzymes to digest organic substrates before absorption. 
+iv) Examples include: Saccharomyces cerevisiae (Baker’s yeast), Rhizopus 
+stolonifera (Bread mold), Penicillium chrysogenum. 
+4. Protozoa 
+i. 
+Cell Structure: Unicellular, heterotrophic eukaryotes. 
+ii. 
+Locomotion: Grouped by motility mechanisms: 
+Pseudopodia (false feet) e.g Amoeba proteus 
+Flagella (whip- like structures) e.g Trypanosoma gambiense 
+Cilia (hair-like structures) e.g Paramecium caudatum 
+Non- motile e.g Plasmodium falciparum. 
+5. Microscopic Algae 
+i. 
+Cell Structure: Unicellular or simple colonial photosynthetic 
+eukaryotes containing chlorophyll 
+ii. 
+Nutrition: Autotrophic(photosynthetic) 
+Meaning and Principles of Culturing Microorganisms 
+Microbial Culturing is the controlled laboratory technique of growing and 
+multiplying microorganisms in designated nutrient media under favorable 
+environmental conditions (temperature, pH, oxygen levels). 
+Concepts in Culturing 
+Culture Medium: A nutrient liquid broth or solid gel formulated with essential 
+carbon, nitrogen, mineral salts, and vitamins required for microbial growth. 
+Agar: A complex polysaccharide extracted from red algae, used as a solidifying 
+agent in culture media due to its inertness to microbial digestion. 
+Aseptic Technique: Sterilization protocols (e.g., autoclaving at 121°C/15 psi, 
+flaming inoculation loops) used to prevent unwanted microbial contamination. 
+Pure Culture: A culture medium containing only a single, isolated species or 
+strain of microorganism. 
+Importance & Applications of Culturing 
+1. Medical Diagnostics: Isolating and identifying pathogenic bacteria or fungi 
+from patient samples (blood, urine, swab) to determine antibiotic sensitivity. 
+2. Pharmaceutical Production: Mass cultivation of Penicillium species for 
+commercial antibiotic extraction. 
+3. Industrial Fermentation: Industrial culturing of Saccharomyces for 
+brewing and baking, or Lactobacillus for dairy products (yogurt, cheese). 
+Pathogens, Carriers, and Transmitting Organisms 
+Microorganisms that cause diseases in plants and animals are called 
+pathogens. Pathogens rely on specific reservoirs and transmission vectors to 
+spread between hosts. 
+Disease Carriers 
+A carrier is an infected individual (human or animal) who harbors a specific 
+pathogen without showing overt clinical signs or symptoms, yet remains 
+capable of transmitting the pathogen to susceptible individuals. 
+Asymptomatic Carrier: Harbors the pathogen continuously without 
+experiencing active illness (e.g., individuals carrying Salmonella typhi causing 
+Typhoid fever). 
+Convalescent Carrier: Continues to shed and transmit the pathogen while 
+recovering from an infection. 
+Vectors & Transmitting Organisms 
+A vector is an intermediate host organism (usually an arthropod) that 
+transfers a pathogenic microorganism from an infected host or reservoir to a 
+susceptible host. 
+Vector 
+Type 
+Transmission 
+Mechanism 
+Vector 
+Example 
+Pathogen 
+Carried 
+Disease 
+Caused 
+Biological 
+Pathogen 
+multiplies/develops 
+inside vector's 
+Female 
+Anopheles 
+mosquito 
+Plasmodium 
+falciparum 
+(Protozoan) 
+Malaria 
+body; transmitted 
+via bite. 
+Biological 
+Biological 
+Pathogen 
+transmitted 
+directly into 
+bloodstream via 
+blood-feeding bite. 
+Viral transmission 
+via blood feeding 
+bite. 
+Tsetse fly 
+(Glossina) 
+Trypanosoma 
+species 
+(Protozoan) 
+African 
+Sleeping 
+Sickness 
+Aedes 
+aegypti 
+mosquito 
+Flavivirus 
+Yellow 
+Fever / 
+Dengue 
+Mechanical Pathogen attaches 
+externally to 
+legs/body from 
+sewage/decay and 
+contaminates food. 
+Mechanical 
+External physical 
+transfer of 
+pathogens onto 
+uncovered food and 
+surfaces. 
+Housefly 
+(Musca 
+domestica) 
+Vibrio 
+cholerae 
+(Bacteria) 
+Cholera 
+Cockroach 
+(Periplaneta 
+americana) 
+Entamoeba 
+histolytica / 
+Salmonella 
+Amoebic 
+Dysentery / 
+Food 
+Poisoning 
+Assignment 
+1.Draw a simple structural diagram comparing the four main groups of 
+microorganisms. Label at least one distinct feature for each group (e.g Capsid, 
+cell wall material locomotion structure). 
+2. Differentiate clearly between a biological vector and a mechanical vector 
+using their mode of pathogen transfer and one specific organism. Example 
+for each. 
+NAME OF SCHOOL: MATER MISERICORDIAE SECONDARY SCHOOL, 
+RUMOMASI 
+TERM: FIRST 2026/2027 ACADEMIC SESSION  
+WEEK: TWO 
+CLASS: SS2 
+SUBJECT: Biology 
+TOPIC: Microorganism in action and better health 
+Beneficial and Harmful Effects of Microorganisms 
+Microorganisms (microbes) are microscopic organisms such as bacteria, 
+viruses, fungi, protozoa, and microscopic algae. While many are pathogenic 
+(disease-causing), numerous microbes play essential roles in medicine, 
+agriculture, food processing, and environmental sustainability. 
+Major groups of microorganisms and their characteristic structures. 
+Beneficial Effects of Microorganisms 
+I. 
+II. 
+III. 
+Medicine & Health: 
+• Antibiotic Production: Fungi such as Penicillium chrysogenum yield 
+penicillin; Streptomyces species produce streptomycin. 
+• Vaccines & Sera: Attenuated (weakened) or killed microbes stimulate 
+active immunity against severe pathogens. 
+• Gut Microbiota: Normal intestinal bacteria (e.g., Escherichia coli) 
+synthesize Vitamin K and Vitamin B complex while suppressing 
+pathogenic invaders. 
+Agriculture & Soil Fertility: 
+• Nitrogen Fixation: Rhizobium bacteria in legume root nodules and free
+living Azotobacter convert atmospheric nitrogen into soil nitrates. 
+• Decomposition & Nutrient Cycling: Saprophytic bacteria and fungi 
+break down dead organic matter, recycling essential elements (carbon, 
+nitrogen, phosphorus). 
+Industry & Biotechnology: 
+Food & Beverage Processing: Saccharomyces cerevisiae (yeast) ferments 
+sugars into ethanol and CO₂ (baking and brewing). Lactobacillus species 
+ferment lactose to lactic acid for yogurt and cheese production. 
+Sewage Treatment: Aerobic bacteria digest dissolved organic wastes in 
+municipal sewage purification plants. 
+Harmful Effects of Microorganisms 
+1. Human & Animal Diseases: Pathogens cause infections such as cholera 
+(Vibrio cholerae), tuberculosis (Mycobacterium tuberculosis), malaria 
+(Plasmodium spp.), and influenza. 
+2. Plant Diseases: Microbes cause significant crop damage, e.g., cassava 
+mosaic virus, maize rust, and potato late blight (Phytophthora infestans). 
+3. Food Spoilage: Saprophytic bacteria and molds decompose raw and cooked 
+food. Clostridium botulinum releases lethal neurotoxins causing botulism. 
+4.Material Deterioration: Cellulolytic bacteria and fungi degrade timber, 
+paper, textiles, and leather goods. 
+Control of Harmful Microorganisms & Public Health 
+Controlling microbial growth eliminates pathogens and halts disease 
+transmission cycles within communities. Methods are categorized into 
+physical, chemical, and public health measures. 
+Disease transmission cycle and critical public health intervention points. 
+Physical Control Methods 
+High Temperature: Boiling water (100°C for 10–15 mins) kills vegetative 
+bacterial cells. Autoclaving uses moist steam under pressure (121°C for 15 
+mins) to destroy heat-resistant bacterial endospores. 
+Pasteurization: Heating milk/liquids to 72°C for 15 seconds followed by rapid 
+cooling eliminates pathogens without destroying flavor or nutritional value. 
+Low Temperature & Dehydration: Refrigeration (4°C) and freezing (-18°C) 
+exert a bacteriostatic effect (halting growth). Desiccation removes moisture 
+necessary for enzymatic activity. 
+Radiation: Ultraviolet (UV) radiation and gamma rays sterilize surgical 
+instruments, pharmaceuticals, and packaged food. 
+Chemical Control Methods 
+Disinfectants: Strong chemical agents applied to non-living inanimate 
+surfaces to destroy microbes (e.g., bleach, Lysol, phenol). 
+Antiseptics: Mild chemical solutions safe for application on living tissue and 
+wounds to prevent infection (e.g., 70% ethanol, iodine, hydrogen peroxide). 
+Preservatives: Table salt, sugar, and vinegar inhibit microbial activity via 
+osmotic dehydration or by lowering pH. 
+Public Health Measures & Vector Control 
+Safe Water Provision: Purification of municipal water through sedimentation, 
+filtration, and chlorination. 
+Proper Waste Disposal: Underground sewage systems, sanitary pit latrines, 
+and managed landfills prevent insect vector breeding. 
+Vector Eradication: Use of Long-Lasting Insecticide-treated Nets (LLINs) and 
+indoor spraying against mosquitoes; food protection against houseflies (Musca 
+domestica). 
+Immunization Programs: Routine mass vaccination builds herd immunity 
+against polio, measles, diphtheria, and yellow fever. 
+Quarantine & Isolation: Enforced restriction of infected individuals or animal 
+products during epidemic disease outbreaks. 
+Maintenance of Good Health 
+Good health is a state of complete physical, mental, and social well-being. 
+Maintaining health relies on three primary pillars: 
+Personal Hygiene: Frequent handwashing with soap under clean running 
+water (especially before meals and after toilet use). Daily bathing, oral hygiene 
+twice daily, and keeping fingernails trimmed short to eliminate dirt and 
+parasite eggs. 
+Environmental Sanitation: Keeping living spaces, kitchens, and toilets clean 
+and well-ventilated. Disposing of domestic refuse in covered bins and draining 
+stagnant water pools to prevent mosquito breeding. 
+Healthy Lifestyle Factors: Consuming a balanced diet rich in essential 
+micronutrients (Vitamin C, Zinc) to fortify immunity. Engaging in regular 
+physical exercise and ensuring 7–8 hours of restful sleep daily for tissue 
+recovery. 
+Roles of Health Organizations 
+1.World Health Organization (WHO): This is a specialized division of the United 
+Nations Organization (UNO), now known as the United Nations, established in 
+1948 with headquarters in Geneva, Switzerland. Its major aim is to improve the 
+health of the people in all the countries of the world. 
+2.United Nations Children’s Fund (UNICEF): The UNICEF, another special 
+agency of the United Nations Organistion, now known as the United Nations, 
+was set up to improve the health and welfare of the children all over the world. 
+3.Nigerian Medical Association (NMA) 
+The Nigerian Medical Association (NMA) is a national body concerned with the 
+maintenance of good health within Nigeria. 
+Assignment 
+1. Outline three public health interventions required to prevent an outbreak of 
+cholera in a flood-affected community. 
+2. Describe how pasteurization differs from standard boiling in terms of 
+temperature, duration, and effect on liquid nutrients. 
+3. List three personal hygiene practices and explain how each prevents 
+pathogen invasion into the human body. 
+Evaluation(student) 
+1. Identify the beneficial and harmful effects of some microbes.  
+2. Describe physical and chemical methods used to control harmful 
+microorganisms. 
+3. Outline public health measures and control strategies implemented to 
+prevent infectious microbial diseases. 
+4. Enumerate essential personal hygiene practice for maintaining good 
+health. 
+NAME OF SCHOOL: MATER MISERICORDIAE SECONDARY SCHOOL, 
+RUMOMASI 
+TERM: FIRST 2026/2027 ACADEMIC SESSION  
+WEEK: THREE 
+CLASS: SS2 
+SUBJECT: Biology 
+TOPIC: Aquatic Habitat (Marine Habitats) 
+Procedure (content development)  
+Characteristics/features of Marine Habitat 
+A marine habitat is an aquatic environment composed of saltwater, 
+encompassing all oceans and seas. It covers approximately 70% of the earth's 
+surface and serves as the largest global aquatic biome, supporting diverse 
+ecosystems. 
+Characteristics of Marine Habitat 
+The marine or salt water habitats possess the following key physical and 
+chemical characteristics: 
+1. Salinity: Salinity is defined as the degree of saltiness or concentration of 
+salt solution in oceans. Marine habitats have high salinity, with an average 
+salinity put at 35.2 per 1000 (35.2 parts of salts by weight per 1000 parts of 
+water). 
+2. Density: The density of marine water is high (~1.028) compared to fresh 
+water (1.00). Hence, many organisms can easily float on ocean water. 
+3. Pressure: Water pressure increases with depth at the rate of one 
+atmosphere for every 10 meters, varying from 1 atm at the surface to about 
+1000 atm at extreme depths. 
+4. Size: Marine habitats represent the largest of all habitats. Oceans alone 
+occupy over 70% (approx. 360 million km²) of the Earth's total surface area 
+(510 million km²). Examples include the Atlantic, Indian, and Pacific Oceans. 
+5. Currents: Currents are produced by wind action at the surface and by 
+internal variations in salinity and temperature deeper in the ocean. 
+6. Tides: Tides are the periodic rise and fall of the ocean surface (occurring 
+roughly twice daily), caused by the gravitational attraction of the moon and 
+sun. 
+7. Oxygen Concentration: Highest at the surface level where atmospheric 
+exchange occurs; oxygen concentration decreases with depth, becoming 
+practically non-existent in extreme depths. 
+8. Hydrogen Ion Concentration (pH): Seawater is alkaline in nature with a 
+typical pH ranging between 8.0 and 9.0 near the surface. 
+9. Waves: Movements of surface waters caused by winds that facilitate 
+continuous mixing of seawater near the surface. 
+10. Light Penetration: Light penetrates ocean water up to a maximum depth 
+of about 200 meters (Euphotic zone), directly limiting plant life to these upper 
+illuminated layers. 
+Major Zones of the Marine Habitat  
+Supratidal (Splash) Zone Area above the high-tide mark receiving moisture 
+from ocean splash and wave action. 
+Intertidal (Neritic) Zone 
+Area between high and low tides, characterized by 
+high light penetration, fluctuating water 
+temperatures, and continuous wave movement. 
+Littoral (Subtidal) Zone 
+Extends down to roughly 200m depth; 
+continuously submerged, receives abundant 
+sunlight, and contains rich nutrient supplies. 
+Benthic Zone 
+Extends down to about 500m depth; characterized 
+by low light penetration and low nutrient 
+availability. 
+Pelagic / Abyssal Zone 
+Reaches depths of about 7000m; cold, high 
+pressure, low light penetration, and low primary 
+organic productivity. 
+Hadal (Aphotic) Zone 
+Deepest marine zones (>7000m depth) forming 
+ocean trench beds with absolute darkness and no 
+photosynthetic activity. 
+Distribution of organisms in habitats  
+Organisms in marine environments are distributed into three main ecological 
+groups: 
+1. Plankton (Floating organisms): Drifting microscopic organisms found 
+mainly in the lighted upper zone. 
+Phytoplankton (Producers): Microscopic plant-like algae (e.g., Diatoms, 
+Dinoflagellates) that carry out photosynthesis. 
+Zooplankton (Consumers): Microscopic animals (e.g., Protozoa, 
+Copepods, jellyfish larvae). 
+2. Nekton (Active swimmers): Animals capable of swimming strongly 
+against water currents (e.g., Tilapia, Tuna, Sharks, Whales, Sea Turtles, 
+Squids). 
+3. Benthos (Bottom dwellers): Organisms attached to or crawling on the 
+sea floor (e.g., Sea Anemones, Corals, Sea Urchins, Crabs, Starfish, Sea 
+Cucumbers). 
+Adaptive features of marine organisms  
+Plant Adaptations 
+Salt Water Swamp Plants: Possess succulent stems/roots to dilute salt 
+concentration. 
+Have pneumatophores (breathing roots) for atmospheric gas exchange. 
+Stilt roots provide structural anchorage in mud. 
+Viviparous seedlings ensure survival and continuity. 
+Excrete excess salt to maintain internal body salt balance. 
+Seaweeds: Holdfast structures for firm attachment to rocks. 
+Mucilaginous outer layer prevents desiccation. 
+Divided leaves and air bladders for buoyancy in water. 
+Animal Adaptations 
+Barnacles: Possess protective mantles or attachment pads to firmly anchor 
+onto rocks, preventing desiccation during low tide. 
+Cartilaginous Fishes (e.g., Sharks, Dogfish): Maintain high internal salt 
+balance and body osmotic pressure to adapt to high ocean salinity. 
+Bony Fishes (e.g., Tilapia, Herring): Drink salt water to cope with high 
+salinity and utilize salt-secreting glands in their gills or eyes to excrete excess 
+salt. 
+Shrimps: Equipped with powerful chelipeds (claws) for capturing and 
+holding prey. 
+Crabs: Burrow rapidly into coastal mud to protect against wave action, 
+tides, and predators. 
+Periwinkles: Possess modified lungs for breathing air during exposure and 
+a strong muscular foot for firm attachment. 
+Starfish: Utilize tube feet to hold securely onto rocky shores and hard 
+outer shells to prevent desiccation. 
+. 
+Diagram showing Adaptive Features of Marine Plants (Holdfast & Air Bladder) and Animals (Swim Bladder 
+& Gills) 
+Assignment 
+1.Mention five threats to marine habitats. 
+2.Explain five ways of conserving marine habitat. 
+NAME OF SCHOOL: MATER MISERICORDIAE SECONDARY SCHOOL, 
+RUMOMASI 
+TERM: FIRST 2026/2027 ACADEMIC SESSION  
+WEEK: FOUR 
+CLASS: SS2 
+SUBJECT: Biology 
+TOPIC: Estuarine Habitats 
+Types of Estuarine Habitat 
+An estuarine habitat (or estuary) is a semi-enclosed coastal body of water 
+where fresh water from rivers and streams meets and mixes with salt water 
+from the ocean. This mixing produces brackish water, which has a salinity 
+intermediate between fresh water (<0.5‰) and full seawater (~35‰). 
+Estuaries are highly dynamic transition zones (ecotones) affected by tidal 
+fluctuations, high nutrient loads, and fluctuating environmental parameters. 
+Types of Estuaries 
+1. Delta: A delta is where a river divides into many channels before entry 
+into the ocean or sea. Brackish water or estuary (delta) is formed at the 
+mouth of a river as it enters the sea. 
+2. Lagoon: This is a body of ocean water that enters into the land through a 
+canal and therefore has the opportunity of mixing with fresh water from 
+rivers and streams. 
+3. Bay: This is a little or small portion of the sea water which enters into the 
+land and mixes up with fresh water from rivers and streams. A bay is very 
+small and not long enough to rejoin the sea at another end. 
+Characteristics of Estuarine Habitats 
+The following are the principal characteristics of estuarine habitats: 
+(1) Fluctuation in salinity: Salinity fluctuates in this habitat. Salinity is 
+lower at the mouth of a river and gets higher towards the sea. Salinity is 
+also affected by season: while the rainy season reduces salinity due to the 
+addition of fresh water, the dry season increases it. 
+(2) Turbidity: Turbidity of estuarine habitats increases especially during 
+the rainy season when lots of debris are brought down by rivers to the 
+habitat. This high turbidity also reduces the rate of photosynthesis and 
+respiration by organisms. 
+(3) Shallowness of water: Unlike sea water which is deep, the water in an 
+estuarine habitat is generally very shallow. 
+(4) Low species diversity: The estuarine habitat has low diversity of 
+species compared to marine habitats. Common plant species include 
+phytoplankton, algae, and marsh vegetation, while animal species include 
+crabs, oysters, lobsters, etc. 
+(5) Water is affected by tides: Sea water usually flows rapidly into 
+estuaries at high tides and rushes back into the ocean at low tides. 
+(6) High level of nutrients: The estuarine habitats contain abundant 
+nutrients, especially organic detritus, which form the bulk of producers in 
+the habitat. 
+(7) Low oxygen content: Oxygen content of estuarine habitats is generally 
+very low and, as a result, much of the microbiological activity is anaerobic. 
+Distribution of Plants and Animals in Estuarine Habitats 
+Plant Species and Their Adaptive Features 
+(1) Planktons (diatoms): They possess air spaces in their tissues, rhizoids 
+or false feet for attachment to rocky shores, and air bladders for buoyancy. 
+(2) Algae: They possess chlorophyll for photosynthetic activities and a small 
+size or large surface-area-to-volume ratio for floating. 
+(3) Red mangrove (Rhizophora racemosa): It has stilt roots which grow 
+down from the stem into the soft mud and develop numerous rootlets with 
+air spaces for conducting air to root tissues. The roots also provide support 
+and prevent plants from being washed away by tides. Furthermore, the 
+seeds of red mangrove germinate while still on the parent plant (vivipary), 
+preventing seedlings from being carried away by water currents. 
+(4) White mangrove (Avicennia nitida): It has pneumatophores (breathing 
+roots) for gaseous exchange. 
+Animal Species and Their Adaptive Features 
+(1) Mosquito larvae and pupae: These organisms possess breathing 
+trumpets for gaseous exchange. 
+(2) Crabs: They can burrow fast into the mud for protection against 
+predators, strong waves, or tides. 
+(3) Water snails and shrimps: These animals can burrow into the mud 
+when the tide is going out, thus escaping the periodic dilution of their 
+external medium. 
+(4) Worms: They have strong, protective, impermeable coverings against 
+high salinity. 
+(5) Mudskippers: These animals have modified fins adapted for crawling 
+when on land and for swimming when in water. 
+(6) Fishes: Fishes like Tilapia have fins for movement and a swim bladder 
+for buoyancy control. 
+Food Chain in Estuarine Habitats 
+A typical food chain in an estuarine habitat may contain up to three, four, or 
+five trophic levels. Phytoplankton (such as diatoms) and organic detritus form 
+the primary producers supporting the food chain. 
+Examples of Food Chains in Estuarine Habitats: 
+(i)   Detritus → Worms → Snails → Birds 
+(ii)  Diatoms → Shrimps → Fishes 
+(iii) Phytoplankton → Barnacles → Fish → Birds 
+Factors Affecting Estuarine Habitats 
+The environmental factors affecting estuarine habitats are common to most 
+aquatic ecosystems and include: 
+Temperature 
+Relative humidity 
+Light intensity & penetration 
+pH (Acidity / Alkalinity). 
+Assignment 
+1.Describe the estuarine habitat under the following headings: 
+a) Meaning of estuarine habitat 
+b) Characteristics 
+c) Plants and animals found there 
+d) Adaptations of organisms 
+e) Economic importance 
+NAME OF SCHOOL: MATER MISERICORDIAE SECONDARY SCHOOL, 
+RUMOMASI 
+TERM: FIRST 2026/2027 ACADEMIC SESSION  
+WEEK: FIVE 
+CLASS: SS2 
+SUBJECT: Biology 
+TOPIC: Fresh water Habitats 
+Types and characteristics of fresh water habitat 
+Fresh water habitat is a body of water formed mainly from inland waters and 
+contain a very low level of salinity. Examples of fresh water habitat are rivers, 
+ponds, streams, springs and lakes. Freshwater habitats are classified primarily 
+based on the mobility or movement direction of the water body into two distinct 
+categories: Lotic (Running) Waters and Lentic (Stagnant) Waters. 
+Lotic (Running) Waters: Waters that flow continuously in a specific direction. 
+They possess strong water currents, high oxygen concentration due to constant 
+aeration, and are generally non-stratified. Examples are Rivers, streams, 
+springs, brooks, waterfalls. 
+Lentic (Stagnant) Waters: Standing or calm waters that do not flow in a 
+specific direction. They accumulate organic sediments, undergo thermal/light 
+stratification, and exhibit distinct zonation. Examples are Lakes, ponds, 
+swamps, dams, reservoirs, bogs. 
+Characteristics of Fresh Water Habitats 
+Low Salinity: Freshwater habitats contain very low levels of dissolved salts 
+(typically around 0.5% or less), compared to oceans which average about 3.5% 
+(35 parts per thousand). 
+Small Relative Size: Freshwater habitats occupy a very small proportion of 
+Earth's total water surface compared to marine habitats, which cover over 75% 
+of the Earth's surface. 
+Temperature Variations: Temperature fluctuates with seasonal changes, 
+weather, and depth. In lentic bodies, surface water is slightly warmer than 
+bottom mud during warm periods. 
+High Dissolved Oxygen Content: Oxygen is readily available in most 
+freshwater zones, particularly in fast-flowing lotic waters and the surface layer 
+of lentic bodies. 
+Shallowness: Most freshwater habitats are relatively shallow compared to 
+marine oceans, allowing light to easily penetrate to the substrate in many 
+areas. 
+Seasonal Volume Variation: Streams and rivers experience high volume, swift 
+currents, and increased turbidity during rainy seasons, but dry up or shrink 
+significantly in dry seasons. 
+Current Action: Unidirectional currents in lotic environments distribute 
+dissolved gases, salts, nutrients, and microorganisms while acting as a 
+physical challenge to non-adapted organisms. 
+Ecological Zones of Fresh Water Habitats 
+1. Lentic Habitat Zones (e.g., Lakes and Ponds) 
+Lentic habitats display two primary vertical ecological zones based on light 
+penetration, rooted vegetation, and depth: 
+Littoral Zone: The shallow edge/margin of the water body where sunlight 
+easily penetrates to the bottom sediment. It features rooted vegetation, warm 
+temperatures, maximum dissolved oxygen, and the highest primary biological 
+productivity. 
+Plants: Spirogyra, Chlamydomonas, water fern, duckweed, water lettuce 
+(Pistia), diatoms, sedges. 
+Animals: Water fleas, water snails, flatworms, frogs, toads, water skaters 
+(Gerri’s), ducks, snakes, crocodiles, tadpoles, Hydra, hippopotamus. 
+Benthic Zone: The deep bottom region composed of organic mud and 
+substrate (humus). Although rooted vegetation like littoral plants is absent at 
+the base, floating plants with deep-anchored roots exist here. Light is limited, 
+and organic decomposition is high. 
+Plants: Water lily (Nymphaea), water arum, ferns, Crinum lily, Commelina, 
+submerged water grasses. 
+Animals: Protozoa, rotifers, Hydra, tilapia fish, mudfish, catfish, leeches, 
+caddisfly larvae, mosquito larvae/pupae, water spider, crayfish, water scorpion, 
+water boatman, water bugs. 
+2. Lotic Habitat Zones (e.g., Rivers and Streams) 
+In lotic (running) water ecosystems, zones are differentiated by water flow 
+velocity and pool depth: 
+Pool Zone: Deeper regions of the river where water flow is relatively slow, calm, 
+and peaceful. Fine silt and organic matter settle here. 
+Rapid Zone: Shallow areas where water flows swiftly over rocky substrates. 
+Aeration is maximum, but thermal stratification does not occur due to 
+continuous mixing. 
+Eutrophication in Freshwater Ecosystems 
+Eutrophication is defined as the excessive growth of plant life or algal blooms 
+in a body of water, caused by an enrichment of organic nutrients and minerals, 
+ultimately leading to severe oxygen depletion and the collapse of aquatic life. 
+Major Causes of Eutrophication: 
+Overuse of agricultural fertilizers containing nitrates and phosphates, which 
+wash into rivers/lakes during heavy rainfall. 
+Discharge of untreated domestic sewage and organic waste runoff from fish 
+farming operations. 
+Adaptive Features of Freshwater Organisms 
+Organisms inhabiting fresh waters face challenges such as osmotic water gain 
+(due to hypotonic water), strong water currents in lotic habitats, and light 
+limitations in deep lentic habitats. Below are their key structural, physiological, 
+and behavioral adaptations. 
+Adaptive Features of Freshwater Plants 
+Plant Organism 
+Structural / Adaptive 
+Feature 
+Ecological Survival 
+Function 
+Water lily 
+(Nymphaea) 
+Air bladders, broad 
+expanded floating leaves, 
+light weight, long central 
+petioles attached to base 
+mud. 
+Air bladders and broad 
+leaves keep the plant 
+afloat. Long petioles 
+prevent leaves from 
+being pulled underwater 
+by water currents. 
+Plant Organism 
+Structural / Adaptive 
+Feature 
+Ecological Survival 
+Function 
+Water hyacinth 
+(Ipo 
+Spirogyra 
+Spongy leaf stalks with 
+numerous cavities and 
+large intercellular air 
+spaces. 
+Traps air within tissues 
+to provide buoyancy and 
+float on the water 
+surface. 
+Outer protective 
+mucilaginous sheath 
+covering the filamentous 
+body. 
+Protects the algae from 
+decay, reduces friction, 
+and prevents physical 
+damage from water 
+currents. 
+Water lettuce 
+(Pistia) 
+Hornwort 
+(Ceratophyllum) 
+Dense, fine microscopic 
+hairs covering the leaf 
+surface. 
+Traps air bubbles 
+between hairs, making 
+the leaves water
+repellent and helping the 
+plant float. 
+Submerged, highly 
+dissected, thin thread
+like leaves. 
+Increases surface area 
+for maximum sunlight 
+absorption and efficient 
+gaseous exchange 
+underwater. 
+Water weed 
+(Elodea) 
+Long, slender, flexible 
+submerged petioles and 
+stems. 
+Enables the plant to 
+bend gracefully and flex 
+with water currents 
+without breaking. 
+Adaptive Features of Freshwater Animals 
+Animal Organism Structural / Adaptive 
+Feature 
+Ecological Survival 
+Function 
+Protozoa 
+(Amoeba/Paramecium) 
+Contractile vacuoles. Performs osmoregulation 
+by collecting and 
+expelling excess water 
+entering the cytoplasm 
+via osmosis. 
+Tilapia Fish Hydrodynamic body 
+shape, internal swim 
+bladder, highly 
+vascularized gills. 
+Swim bladder controls 
+buoyancy; gills enable 
+underwater gaseous 
+exchange; streamlined 
+shape minimizes friction. 
+Duck Webbed feet digits; 
+serrated filtering beak. 
+Webbed digits act as 
+paddles for swimming; 
+serrated beak sieves 
+plankton and small food 
+particles from mud. 
+Lungfish 
+(Protopterus) 
+Dual breathing organs 
+(gills & functional lungs); 
+ability to secrete mucus 
+cocoon. 
+Uses gills in water; uses 
+lungs to breathe 
+atmospheric air during 
+dry seasons by burrowing 
+into mud (estivation). 
+Hydra Slippery body outer layer, 
+adhesive foot disc, hooks, 
+suckers, and 
+nematocysts. 
+Suckers and sticky disc 
+enable secure attachment 
+to water plants; 
+nematocysts capture 
+prey. 
+Pond skaters 
+(Gerris) 
+Long slender legs 
+equipped with water
+repellent hair fringes. 
+Distributes weight to 
+skate across water 
+surface tension without 
+breaking through. 
+Animal Organism Structural / Adaptive 
+Feature 
+Ecological Survival 
+Function 
+Water boatman Hydrofuge body hairs 
+that trap air bubbles 
+beneath wings. 
+Carries a bubble of 
+atmospheric air 
+underwater to serve as a 
+physical gill for 
+respiration. 
+
+Comparative Adaptations: Stagnant (Lentic) vs. Running (Lotic) Waters 
+Ecological Adaptation 
+Category 
+Stagnant Water 
+Adaptations 
+(Lentic Ecosystems) 
+Running Water 
+Adaptations 
+(Lotic Ecosystems) 
+Plant Adaptations • Broad floating leaves 
+with air bladders 
+(Water lily, Hyacinth). 
+• Fine leaf hairs to trap 
+air (Water lettuce). 
+• Flexible stems 
+anchored in soft mud. 
+• Flexible, stream-line 
+dissected leaves 
+(Hornwort, Elodea) to 
+resist tearing. 
+• Strong root anchoring 
+systems in 
+gravel/rocks. 
+• Thick mucilage 
+coating (Spirogyra). 
+Animal Adaptations 
+(Morphology) 
+• Surface tension 
+skimmers (Pond 
+skaters). 
+• Air-holding structures 
+(Water boatman air 
+bubble). 
+• Buoyancy organs 
+(Swim bladders). 
+• Flattened bodies to 
+slip under rocks. 
+• Suckers, hooks, 
+sticky foot discs (Hydra, 
+Leeches). 
+• Strong muscle 
+swimmers with 
+streamlined bodies. 
+Respiration & Survival • Gills & Lungs for 
+estivation in mud 
+(Lungfish). 
+• Contractile vacuoles 
+for osmoregulation. 
+• Highly developed gill 
+surface area to absorb 
+abundant dissolved 
+oxygen in rapids. 
+Food Chains and Energy Flow in Fresh Waters 
+Freshwater Food Chains 
+Diatoms (Producer) → Fish fry (Primary Consumer) → Tilapia (Secondary 
+Consumer) 
+Detritus (Organic waste) → Worm (Primary Consumer) → Shrimps (Secondary 
+Consumer) → Water Bird (Tertiary Consumer) 
+Spirogyra (Producer) → Tadpoles (Primary Consumer) → Carps (Secondary 
+Consumer) → Kingfisher (Tertiary Consumer) 
+Energy Flow Pathway 
+Radiant Solar Energy is absorbed by green plants and phytoplankton 
+(producers) for photosynthesis to synthesize organic carbohydrates. 
+Herbivores (zooplankton, tadpoles) consume producers directly (primary 
+consumer level). 
+Carnivores (small/large fish, water birds) obtain energy indirectly by feeding 
+on herbivores. 
+Decomposers (saprophytic fungi and bacteria) break down organic wastes and 
+dead bodies, releasing inorganic nutrients back into the mud. 
+Energy Loss: At each trophic transfer level, a significant proportion of energy is 
+lost as heat through respiration and metabolic activities. 
+Factors Affecting Fresh Water Habitats 
+Freshwater ecosystems are regulated by both biotic and abiotic ecological 
+factors: 
+Biotic Factors: Producers (green plants, diatoms, algae), Consumers (fish, 
+tadpoles, insects, aquatic birds), Parasites, and Decomposers (bacteria, 
+saprophytic fungi). 
+Abiotic Factors: Water current velocity, temperature, dissolved oxygen 
+content, salinity level, water turbidity/clarity, pH, and sunlight penetration 
+depth. 
+Assignment 
+1.With the aid of a detailed flowchart/diagram, describe the step-by-step 
+process of eutrophication and its ultimate impact on aquatic life. 
+2. Construct a food chain consisting of four trophic levels in a freshwater 
+habitat and explain how energy is lost from producers to decomposers 
+NAME OF SCHOOL: MATER MISERICORDIAE SECONDARY SCHOOL, 
+RUMOMASI 
+TERM: FIRST 2026/2027 ACADEMIC SESSION  
+WEEK: SIX 
+CLASS: SS2 
+SUBJECT: Biology 
+TOPIC: Terrestrial Habitats 
+SUB TOPIC: Features, Formation, types of Marshes and adaptation of  
+Features of Marsh 
+Terrestrial habitats refer to life on earth. The nature of soil, rainfall and 
+temperature are the major factors affecting the nature of terrestrial habitats. 
+Terrestrial habitat is divided into four groups namely: Marsh, Rainforest, 
+Savanna or Grassland and Arid.  
+Marshy Habitats 
+Marshy habitat is defined as a lowland habitat which is usually flooded or 
+water logged all the time. Naturally, grasses and shrubs grow in marsh but 
+when trees grow there, it is called a swamp. Marsh is often regarded as a 
+transition between the aquatic and terrestrial habitats. 
+Features of Marsh Habitats: 
+1. Waterlogged & Anaerobic Soil: The ground remains saturated with 
+water for extended periods, creating an oxygen-depleted (anaerobic) 
+underground environment that slows organic decomposition. 
+2. Herbaceous Plant Dominance: Trees are largely absent; non-woody 
+plants with soft, flexible stems dominate the landscape. 
+3. Shallow Water Level: Water depth typically ranges from a few 
+centimeters to about a meter, allowing sunlight to reach the substrate 
+and support dense vegetation. 
+4. High Organic Accumulation: Partially decayed plant material 
+accumulates to form nutrient-rich mud, silt, and peat deposits. 
+5. Dynamic Salinity Levels: Depending on geographical location, salinity 
+can range from completely fresh to brackish or hypersaline coastal water 
+Formation of Marshes (Ecological Succession) 
+Stage 1: Sediment Accumulation: Slow moving rivers, streams, or coastal tides 
+deposit fine silt, clay, and organic debris in low lying shallow water basins. 
+Stage 2: Shallowing of water: Continuous deposition reduces water depth, 
+enabling sunlight to penetrate the basin floor and creating ideal conditions for 
+plant attachment. 
+Stage 3: Pioneer Colonization: water tolerant herbaceous species (e.g. reeds, 
+sedges, cattails) take root in the soft mud, Marshes develop gradually through 
+a process of ecological succession in areas with poor drainage and continuous 
+sediment input: stabilizing the sediment with their root networks. 
+Stage 4: Organic Maturation: As plant material dies and decays, organic peat 
+accumulates, raising the ground level and establishing a mature marsh 
+ecosystem. 
+Types of Marshes 
+There are two types of marshes. These are freshwater marshes and salt water 
+marshes. 
+Freshwater marshes: Fresh water marshes occur on land, just beyond the 
+limits of the salt water marshes and beyond the areas influenced by tide. In 
+this area, fresh water from rivers overflows the river banks to flood the 
+adjoining lowlands resulting in the formation of fresh water marshes. 
+Saltwater marshes: Saltwater marshes occur along the coastal areas and they 
+are influenced by tides because the water along the coast is salty, it mixes up 
+with fresh water from rivers to form brackish water. The action of tide in the 
+ocean causes the flooding of adjoining lowlands with brackish water resulting 
+in the formation of salt water marshes. 
+Typical Marsh Organisms and Adaptive Features 
+Organisms living in marsh habitats face severe environmental challenges, 
+including waterlogging, oxygen-depleted mud, fluctuating water levels, and 
+variable salinity. Below are key adaptive features of representative marsh flora 
+and fauna: 
+Category 
+Organism 
+Structural / 
+Physiological 
+Adaptation 
+Survival 
+Function 
+Flora (Plants) 
+Cattail (Typha) 
+Spongy 
+Aerenchyma 
+Tissues 
+Transports 
+atmospheric 
+oxygen down to 
+roots submerged 
+in anaerobic mud. 
+Flora (Plants) 
+Flora (Plants) 
+Water Lily 
+(Nymphaea) 
+Cordgrass 
+(Spartina) 
+Swollen Air-filled 
+Petioles 
+Provides buoyancy 
+to floating leaves 
+and prevents 
+submergence. 
+Specialized Salt 
+Glands 
+Fauna (Animals) Frogs & Toads 
+Fauna (Animals) 
+Mudskipper 
+Moist Skin & 
+Webbed Feet 
+Excretes excess 
+salt absorbed from 
+brackish/salt 
+water. 
+Enables 
+cutaneous 
+respiration 
+underwater and 
+efficient paddling 
+in mud. 
+Enlarged Water
+Retaining Gill 
+Chambers 
+Allows respiration 
+out of water while 
+crawling over mud 
+banks. 
+Fauna (Animals) Heron / Egret 
+Assignment 
+Long Stilt Legs & 
+Spread Toes 
+Wades through 
+water without 
+wetting plumage; 
+toes prevent 
+sinking in mud. 
+Draw a large, neatly labeled diagram of a wading bird (e.g., Heron or Egret). 
+Annotate at least THREE structural adaptations that enable it to thrive in a 
+marsh habitat. 

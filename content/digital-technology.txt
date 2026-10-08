@@ -1,0 +1,373 @@
+SS 2 DIGITAL TECHNOLOGY WEEKS 1-6  
+Week: One
+Definition of Word Processing
+Word Processing is the use of computer software to create, edit, view, store, retrieve and print text
+documents. A text document on the other hand is a written communication like letters, reports,
+memos and so on. The software used for word processing is called a word processor.
+Examples of word processors are:
+1. Microsoft Word
+2. WordStar
+3. WordPerfect
+4. word pro
+5. Corel WordPerfect  
+6. Lotus notes
+7. Perfect writer 
+8. Multimate 
+9. Notepad, e.t.c.
+Advanced Word Processors tools include:
+Watermark
+A watermark is a faint background text or image, such as “DRAFT”, “CONFIDENTIAL” or a
+company logo, which appears lightly behind the main text of a document on every page. It is often
+used to indicate the status of a document (e.g. draft, sample, urgent) or to show
+ownership/authenticity.
+To insert a watermark in Microsoft Word:
+1. Click the “Design” tab on the Ribbon.
+2. Click “Watermark” in the Page Layout tab.
+3. Choose a built-in watermark (e.g. “DRAFT”, “CONFIDENTIAL”), or click “Custom
+Watermark” to type your own text or insert a picture.
+4. Set the desired font, size, colour, layout (diagonal or horizontal) and transparency.
+5. Click “OK”/“Apply” to insert the watermark on every page of the document.
+Mail Merge 
+Mail merge is a feature in Microsoft Word that allows a user to combine a main document (such
+as a letter or certificate) with a data source (such as a list of names and addresses) in order to
+automatically produces multiple personalized copies of the same document.
+Steps for setting up a mail merge:
+1. Open a new or existing Word document to serve as the main document (e.g. an invitation
+letter).
+2. Click the “Mailings” tab, then click “Start Mail Merge” and choose the type of document
+(e.g. Letters).
+3. Click “Select Recipients” and choose a data source (e.g. “Use an Existing List” to select an
+Excel sheet, or “Type a New List”).
+4. Click “Insert Merge Field” to place fields such as «FirstName» or «Address» into the
+document where personalized data should appear.
+5. Click “Preview Results” to check how each merged document will look.
+6. Click “Finish & Merge” and choose to print the documents or create individual merged
+documents/e-mails.
+Macros 
+A macro is a set of recorded actions/commands (such as formatting steps) that can be saved and
+replayed automatically with a single click or shortcut key, in order to save time and ensure
+consistency when performing repetitive tasks in Word.
+Steps for recording a macro:
+1. Click the “View” tab, then click “Macros” and select “Record Macro”.
+2. Type a suitable name for the macro and, if desired, assign it to a button or a keyboard shortcut.
+3. Click “OK” to start recording, then perform the sequence of actions to be automated (e.g.
+formatting a heading).
+4. Click “Macros” again and select “Stop Recording” once all the actions have been completed.
+5. Run the saved macro at any time by clicking “Macros” → “View Macros” → selecting the
+macro → “Run”
+Template
+A template is a ready-made document layout with a predefined design, formatting, fonts and
+placeholder text, which serves as a starting point for creating new documents such as letters,
+resumes, memos, certificates and reports. Using a template saves time and ensures consistency and
+a professional appearance.
+Steps for creating a document from a template:
+1. Click “File” and then “New”.
+2. Browse the available templates or search online templates using keywords (e.g. “resume”,
+“letter”, “certificate”).
+3. Click on the desired template to preview it.
+4. Click “Create” to open a new document based on the chosen template.
+5. Replace the placeholder text and images with your own content, then save the document with
+a new file name.
+Microsoft Word Table 
+A table in Word is an arrangement of data in rows and columns, useful for organizing information
+such as timetables, results and comparisons
+Steps for inserting and adjusting a table:
+1. Click the “Insert” tab, then click “Table”.
+2. Drag across the grid to select the required number of rows and columns, or click “Insert
+Table” to type exact numbers.
+3. Click inside the table to type data into the cells.
+4. Use the “Table Design” tab to apply borders, shading and a table style.
+5. Use the “Layout” tab to insert/delete rows and columns, merge or split cells, and adjust row
+height and column width.
+Assignment
+1. Design a simple certificate template and insert a “SAMPLE” watermark on it.
+2. Explain, in about five sentences, how you would use mail merge to send a personalized
+admission letter to 5 new students.
+Week: Two
+Topic: Spreadsheet I
+Functions and Formula in Microsoft Excel
+A formula is a mathematical expression, beginning with an equal sign (=), that a user writes to
+perform a calculation using values or cell references, e.g. =B2+B3. A function is a predefined
+(built-in) formula in Excel that performs a specific type of calculation automatically, such as
+=SUM (B2:B5).
+Commonly used functions in MS-Excel include:
+• SUM — adds up a range of values, e.g. =SUM(B2:B5);
+• AVERAGE — finds the mean of a range of values, e.g. =AVERAGE(B2:B5);
+• MAX/MIN — find the highest/lowest value in a range;
+• COUNT — counts the number of cells containing numeric data;
+• IF — tests a condition and returns one result if true and another if false, e.g. =IF (B2>=50,
+“Pass”, “Fail”).
+Steps for creating a PivotTable:
+1. Select the range of data (including headings) to be summarized.
+2. Click the “Insert” tab, then click “PivotTable”.
+3. Choose where the PivotTable should be placed (a new worksheet or the existing one) and
+click “OK”.
+4. In the PivotTable Fields pane, drag the required fields into the “Rows”, “Columns” and
+“Values” areas.
+5. The PivotTable automatically summarizes the data (e.g. total sales per region) based on the
+chosen fields.
+6. Adjust the summary type (Sum, Count, Average, etc.) by clicking on the field in the “Values”
+area and selecting “Value Field Settings”.
+Chart Setting
+A chart is a visual/graphical representation of worksheet data, such as a column chart, bar chart,
+line chart or pie chart, which makes it easier to compare, analyze and interpret data at a glance.
+Steps for creating and adjusting a chart:
+1. Select the range of data to be charted, including row and column labels.
+2. Click the “Insert” tab, then click the “Charts” group and choose the desired chart type (e.g.
+Column, Bar, Pie, Line).
+3. The chart is automatically inserted into the worksheet.
+4. Use the “Chart Design” tab to change the chart style, colour, layout, and to add/edit the chart
+title, axis titles and data labels.
+5. Use the “Format” tab to further adjust the chart's shapes, fonts and colours.
+6. Click and drag the chart to reposition it, or drag its corner to resize it.
+Assignment:
+Explain, step by step, how you would create a PivotTable to show the total sales per region from
+a sales data sheet.
+Week: Three (3)
+Topic: Advanced Presentation Tools
+Multimedia Integration
+Multimedia integration is the process of combining different forms of media — such as text,
+images, audio, video and animation into a single presentation slide, in order to make the
+presentation more engaging, informative and interactive. This can only be achieved through the
+aid of a Presentation package which is the program used to display information usually in form
+of a slide show.
+A slide is a single screen of a presentation. Just like every other application software that is built
+with a page setup, the presentation software labels its page as a slide; and more than one slide can
+be created in a presentation.
+Examples of Presentation Software include:
+■ Emaze
+■ Google slides
+■ Macromedia Flash
+■ Microsoft PowerPoint
+■ Windows Movie maker
+■ Slide Wiki, e.t.c.
+Steps for inserting multimedia elements into a slide:
+1. To insert a picture: click “Insert” → “Pictures” → choose “This Device”, “Saved Images” or
+“Online Pictures” → select the image → click “Insert”.
+2. To insert audio: click “Insert” → “Audio” → choose “Audio on My PC” or “Record Audio” →
+select/record the sound file.
+3. To insert video: click “Insert” → “Video” → choose “This Device” or “Online Videos” →
+select the video file.
+Design Setting
+MICROSOFT POWERPOINT WINDOW
+Design setting refers to the tools in the “Design” tab of PowerPoint that allow a user to change the
+overall appearance of a presentation — including its theme, colour scheme, fonts, background
+style and slide size — in order to give the presentation a consistent and professional look.
+Steps for applying a design setting:
+1. Click the “Design” tab on the Ribbon.
+2. Browse the gallery of built-in themes and click on one to apply it to all the slides.
+3. Click “Variants” to change the colour scheme, fonts or background style of the chosen theme.
+4. Click “Format Background” to set a custom colour, picture, gradient or texture as the slide
+background.
+5. Click “Slide Size” to choose between Standard (4:3) and Widescreen (16:9) formats.
+6. Click “Design Ideas” (where available) to let PowerPoint suggest professional layout designs
+for the current slide.
+Assignment
+Group Presentation using Ms-PowerPoint
+Week: Four (4)
+Topic: Memory Unit
+Meaning of Memory
+Memory refers to the component of a computer system used to store data, instructions and
+information either temporarily or permanently for processing. Computer memory is broadly
+classified (grouped) as follows:
+• Primary Memory (Main Memory): is the memory that the CPU can access directly and
+quickly; it is further divided into:
+○ RAM (Random Access Memory) — is a volatile memory that temporarily holds data and
+programs currently in use; its contents are lost when power is switched off.
+○ ROM (Read Only Memory) — is a non-volatile memory that permanently stores essential
+start-up instructions (e.g. BIOS); its contents remain even when power is off and cannot
+ordinarily be altered by the user.
+• Secondary/Auxiliary Memory (Storage): this is a non-volatile memory used to store data and
+programs permanently, even when the computer is switched off, e.g. hard disk drive (HDD),
+solid-state drive (SSD), flash drive, memory card, optical disc (CD/DVD).
+• Cache Memory: a very fast, small-capacity memory located between the CPU and RAM,
+used to temporarily store frequently used data/instructions in order to speed up processing.
+• Registers: A register is a small, high-speed storage location inside the CPU used for holding
+data, instructions, or memory addresses temporarily during processing operation. It is
+grouped into two: A special-purpose register  which performs a dedicated, specific tracking
+function (e.g., holding instructions), and a general-purpose register which is flexibly utilized
+by programmers to store arbitrary data temporarily
+Unit of Storage
+The unit of storage is the standard measurement used to express the capacity/size of computer
+memory and storage devices. The basic units, from smallest to largest, are:
+• Bit (Binary Digit): the smallest unit of data in a computer, represented as either 0 or 1;
+• Byte: a group of 8 bits, usually representing a single character;
+• Kilobyte (KB): equal to 1,024 bytes;
+• Megabyte (MB): equal to 1,024 kilobytes;
+• Gigabyte (GB): equal to 1,024 megabytes;
+• Terabyte (TB): equal to 1,024 gigabytes
+• Petabyte (PB): equal to 1,024 terabytes
+Conversion of Auxiliary Storage
+Since each higher storage unit equals 1,024 units of the one immediately below it, aside from a
+byte which is equivalent to 8bits; values can be converted from one unit to another as follows:
+• To convert from a smaller unit to a larger unit, divide by 1,024 (e.g. KB to MB, MB to GB)
+• To convert from a larger unit to a smaller unit, multiply by 1,024 (e.g. GB to MB, MB to
+KB).
+Examples:
+1. Convert 4 Gigabytes (GB) to Megabytes (MB): 4 GB × 1,024 = 4,096 MB.
+2. Convert 2,048 Megabytes (MB) to Gigabytes (GB): 2,048 MB ÷ 1,024 = 2 GB.
+3. Convert 3 Megabytes (MB) to Kilobytes (KB): 3 MB × 1,024 = 3,072 KB.
+4. Convert 8,192 Kilobytes (KB) to Megabytes (MB): 8,192 KB ÷ 1,024 = 8 MB.
+Assignment
+1. State three differences between primary memory and secondary (auxiliary) memory, giving
+two examples of each.
+2. Give two clear differences between RAM and ROM.
+Week: Five (5)
+Topic: Logic Circuit I
+Definition of Logic Circuit
+A logic circuit is an electronic circuit made up of one or more logic gates that operate on binary
+inputs (0s and 1s) to produce a binary output, based on the principles of Boolean algebra. A logic
+gate is the basic building block of a logic circuit; it is an electronic device that performs a specific
+logical operation on one or more binary inputs to produce a single binary output.
+Types of Logic Gate
+The common types of logic gate are:
+• AND Gate — produces an output of high (1) only when all its inputs are 1
+• OR Gate — produces an output of high (1) when at least one of its inputs is 1
+• NOT Gate (Inverter) — produces an output that is the opposite (inverse) of its single input
+• NAND Gate — the inverse (opposite) of the AND gate; it produces an output of 0 only when
+all its inputs are 1
+• NOR Gate — the inverse (opposite) of the OR gate; it produces an output of 1 only when all
+its inputs are 0
+• XOR Gate (Exclusive OR) — produces an output of 1 only when its inputs are different
+• XNOR Gate (Exclusive NOR) — produces an output of 1 only when its inputs are the same.
+Symbols of Logic Gate
+Each logic gate has a unique standard symbol used to represent it in a logic circuit diagram, as
+shown below:
+Truth Table
+A truth table is a table that shows all the possible combinations of input values for a logic gate (or
+logic circuit) alongside the corresponding output produced for each combination. It is used to
+describe and verify the behaviour of a logic gate.
+B
+Truth Table for AND Gate
+A
+Output (A AND B)
+0
+0
+0
+0
+1
+0
+1
+0
+0
+1
+1
+1
+B
+Truth Table for OR Gate
+A
+Output (A OR B)
+0
+0
+0
+0
+1
+1
+1
+0
+1
+1
+1
+1
+Truth Table for NOT Gate
+A
+Output (NOT A) / A’
+0
+1
+1
+0
+B
+Truth Table for NAND Gate
+A
+Output (A NAND B) /
+(A.B)’
+0
+0
+1
+0
+1
+1
+1
+0
+1
+1
+1
+0
+B
+Truth Table for NOR Gate
+A
+0
+0
+Output (A NOR B)/ (A+B)’
+1
+0
+1
+0
+1
+0
+0
+1
+1
+0
+B
+Truth Table for XOR Gate
+A
+Output (A XOR B)
+0
+1
+0
+1
+0
+0
+1
+0
+1
+1
+1
+0
+Assignment
+(a) A logic circuit consists of four inputs (A, B, C, D) and one output (Z);
+(i) Identify the logic operation between A and B if it uses a NAND gate?
+(ii) Identify the logic operation between C and D if it uses an OR gate?
+(iii) State the complete Boolean logic equation for Z?
+(b) State the specific logic device used to invert an output signal?
+(c) Determine the output Z for the truth table row where A=1, B=1, C=0, D=0?
+Week: Six (6)
+Topic: System Development Cycle
+Definition of System Development Cycle
+The System Development Cycle (also called the System Development Life Cycle, SDLC) is a
+structured, step-by-step process followed by system analysts and programmers to plan, design,
+build, test, implement and maintain an information system, in order to solve a particular problem
+within an organization. It can also be defined as a project management technique that divides
+complex projects in a system into smaller, more manageable segments or phases.
+Description of System Development Cycle
+The System Development Cycle describes the logical sequence of activities that a new computer
+based system passes through; from the moment a problem or need is identified to the point where
+the resulting system is fully installed, in use, and subsequently maintained. It ensures that a system
+is developed in an organized manner, reduces errors, and produces a system that truly meets the
+users' requirements.
+Stages in System Development Cycle
+1. Problem Definition/Planning: in this phase, the existing problem or need is identified, and
+the objectives and scope of the new system are defined.
+2. Analysis (Feasibility Study): here, the current system is studied in detail to understand its
+strengths and weaknesses, and a feasibility study is carried out to determine whether the
+proposed system is technically, economically and operationally possible.
+3. System Design: in this phase, the structure of the new system is planned, including its input,
+output, files, database, users’ interface and processing procedures.
+4. Implementation (Coding): this is the system design is translated into actual computer
+programs using a suitable programming language.
+5. Testing: the developed system/programs are tested using sample data to check for errors
+(bugs) and to confirm that the system works as expected.
+6. Documentation: written records (user manuals, technical manuals) describing how the
+system works and how to use/maintain it are prepared.
+7. Maintenance: the system is regularly reviewed and updated after installation to correct errors,
+improve performance, or adapt it to new requirements.
+Diagram of System Development Cycle
+The System Development Cycle is usually represented as a continuous cycle (as shown below),
+because system development does not simply end after implementation.
+Note: — the maintenance stage often reveals new problems or needs, which restarts the cycle from
+the planning stage. This is why it is referred to as a “cycle” rather than a one-off, straight-line
+process.
+Assignment
+1. Briefly explain the primary function of at least five flowchart symbols?
+2. Identify the structural meaning of five standard flowchart shapes?

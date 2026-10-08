@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#10243a">
+  <meta name="description" content="SS2 First Term 2026/2027 learning notes for Mater Misericordiae Secondary School, Rumomasi.">
+  <title>SS2 Learning Hub · Mater Misericordiae</title>
+  <link rel="stylesheet" href="./styles.css">
+  <script defer src="./app.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <button class="menu-toggle" id="menuToggle" type="button" aria-label="Open subject navigation" aria-expanded="false">☰</button>
+    <a class="brand" href="#home" aria-label="SS2 Learning Hub home">
+      <span class="brand-mark">MM</span>
+      <span class="brand-copy"><strong>Mater Misericordiae</strong><small>SECONDARY SCHOOL · RUMOMASI</small></span>
+    </a>
+    <div class="topbar-meta"><span class="live-dot"></span> SS2 <span class="meta-divider">/</span> FIRST TERM 2026/2027</div>
+  </header>
+
+  <div class="page-layout">
+    <div class="scrim" id="scrim"></div>
+    <aside class="sidebar" id="sidebar" aria-label="Course navigation">
+      <div class="sidebar-label">LEARNING MATERIALS</div>
+      <button class="nav-link active" type="button" data-view="home"><span class="nav-icon">⌂</span><span>Overview</span></button>
+      <div class="sidebar-label subject-label">SUBJECTS</div>
+      <nav id="subjectNav" class="subject-nav" aria-label="Subjects">
+        <div class="nav-loading">Loading subjects…</div>
+      </nav>
+      <div class="sidebar-footer">
+        <div class="footer-seal">MM</div>
+        <div><strong>SS2 Study Hub</strong><span>First academic term</span></div>
+      </div>
+    </aside>
+
+    <main class="main-content">
+      <div class="content-topline">
+        <div class="breadcrumbs" id="breadcrumbs"><span>Home</span><span class="crumb-sep">/</span><span>Overview</span></div>
+        <label class="search-box" for="siteSearch">
+          <span class="search-icon" aria-hidden="true">⌕</span>
+          <input id="siteSearch" type="search" placeholder="Search lessons, topics, or keywords…" autocomplete="off">
+          <kbd>⌘ K</kbd>
+        </label>
+      </div>
+      <div id="app" aria-live="polite" aria-busy="true">
+        <div class="loading-state"><span class="loader"></span><p>Preparing your study materials…</p></div>
+      </div>
+      <footer class="site-footer"><span>Mater Misericordiae Secondary School, Rumomasi</span><span>SS2 · First Term 2026/2027</span></footer>
+    </main>
+  </div>
+</body>
+</html>

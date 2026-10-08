@@ -1,0 +1,521 @@
+SS 2 CHEMISTRY WEEKS 1-6
+WEEK: ONE
+MEANING OF THE PERIODIC TABLE
+The Periodic Table is a systematic arrangement of all known chemical elements in 
+order of increasing atomic number, such that elements with similar physical and 
+chemical properties are placed in the same vertical column.
+The periodic table is the most important reference chart in chemistry because it 
+summarizes the properties of all elements in a single arrangement
+Modern Periodic Law: The Modern Periodic Law states that; the physical and chemical 
+properties of elements are periodic functions of their atomic numbers."
+This means that when elements are arranged in order of increasing atomic number, 
+similar properties recur at regular intervals.
+The law was proposed by Henry Moseley in 1913 after discovering that atomic number, 
+rather than atomic mass, determines the properties of an element.
+Explanation
+As atomic number increases:
+• The electronic configuration changes regularly.
+• Elements with the same number of valence electrons appear in the same group.
+• Similar chemical properties are repeated periodically.
+Importance of the Modern Periodic Law
+• Corrected the shortcomings of Mendeleev's periodic table.
+• Properly arranged isotopes.
+• Removed inconsistencies caused by atomic mass.
+• Forms the basis of the modern periodic table.
+EVOLUTION OF THE PERIODIC TABLE
+Mendeleev's Periodic Table (1869)
+Dmitri Mendeleev arranged elements according to increasing atomic mass while 
+grouping similar elements together.
+Achievements
+• Left spaces for undiscovered elements.
+• Predicted the properties of missing elements accurately.
+• Grouped similar elements successfully.
+Limitations
+• Hydrogen had no definite position.
+• Isotopes could not be explained.
+• Some elements were not arranged in increasing atomic mass.
+(d) Moseley's Modern Periodic Table (1913)
+Henry Moseley discovered that atomic number is more fundamental than atomic mass.
+He arranged elements according to increasing atomic number, leading to the modern 
+periodic table.
+Advantages
+• Correct arrangement of all element, Isotopes occupy the same position.
+• Eliminated inconsistencies found in Mendeleev's table, Provides the basis for the 
+modern periodic table.
+ARRANGEMENT OF ELEMENTS INTO GROUPS AND PERIODS
+Groups
+Groups are the vertical columns of the periodic table.
+The modern periodic table contains 18 groups.
+Characteristics of Elements in the Same Group
+• Same number of valence electrons.
+• Similar chemical properties.
+• Similar valency.
+• Undergo similar chemical reactions.
+Examples
+Group 1 – Alkali Metals: Lithium (Li), Sodium (Na), Potassium (K)
+Group 2 – Alkaline Earth Metals: Beryllium (Be), Magnesium (Mg), Calcium (Ca)
+Group 17 – Halogens: Fluorine (F), Chlorine (Cl), Bromine (Br), Iodine (I)
+Group 18 – Noble Gases: Helium (H), Neon (Ne), Argon (Ar)
+Periods
+Periods are the horizontal rows in the periodic table.
+There are 7 periods in the modern periodic table.
+Characteristics of Elements in the Same Period
+• They have the same number of electron shells.
+• Atomic number increases from left to right.
+• Metallic character decreases across the period.
+• Non-metallic character increases across the period.
+Examples
+• Period 1: Hydrogen and Helium.
+• Period 2: Lithium to Neon.
+• Period 3:
+•  Sodium to Argon
+BLOCKS OF ELEMENTS IN THE PERIODIC TABLES
+blocks of elements in the periodic table refer to the way elements are grouped 
+according to the type of subshell (orbital) into which their last (valence) electron 
+enters.
+There are four blocks:
+1. s-Block Elements
+• Location: Groups 1 and 2 (left side of the periodic table), plus hydrogen and helium 
+based on electron configuration.
+• Valence electrons: 1 or 2 and the Last electron enters the s-orbital.
+• Properties:
+• Highly reactive metals (except helium).
+• Good conductors of heat and electricity.
+• Easily lose electrons to form positive ions.
+• Examples: Hydrogen (electron configuration basis), Lithium, Sodium, Magnesium.
+2. p-Block Elements
+• Location: Groups 13–18 (right side of the periodic table).
+• Valence electrons: 3 to 8 and the Last electron enters: the p-orbital.
+• Properties:
+• Contains metals, non-metals, and metalloids.
+• Includes many important elements for life.
+• Reactivity varies widely.
+• Examples: Carbon, Nitrogen, Oxygen, Chlorine
+3. d-Block Elements (Transition Elements)
+• Location: Groups 3–12 (middle of the periodic table).
+• Last electron enters: the d-orbital.
+• Properties:
+• Mostly hard, strong metals.
+• Good conductors of heat and electricity.
+• Often have variable oxidation states.
+• Many form colored compounds and act as catalysts.
+• Examples: Iron, Copper, Zinc.
+4. f-Block Elements (Inner Transition Elements)
+• Location: The two rows placed below the main body of the periodic table.
+• Last electron enters: the f-orbital.
+• Series:
+• Lanthanides
+• Actinides
+• Properties:
+• Most are metals.
+• Many actinides are radioactive.
+• Used in nuclear energy, electronics, and high-strength magnets.
+• Examples: Cerium, Uranium.
+Assignment
+1. Draw the outline of the modern periodic table and label all the groups and periods.
+2. Explain the modern periodic law.
+3. State four differences between groups and periods.
+WEEK: Two
+Properties of the periodic table and trends  
+The periodic table helps us predict the physical and chemical properties of elements 
+through periodic trends.
+1. Ionization Energy (IE)Is the minimum amount of energy required to remove the 
+outermost (most loosely held) electron from one mole of isolated gaseous atoms to form 
+positive ions.
+Example: Na(g) → Na⁺(g) + e⁻
+Trend Across a Period, Ionization energy increases. This is because nuclear charge 
+increases, atomic radius decreases. Electrons are held more strongly by the nucleus.
+Trend Down a group: Ionization energy decreases This is because. Atomic size increases, 
+more electron shells are added and Shielding effect increases. Outer electrons are farther 
+from the nucleus.  
+2. Electron Affinity (EA): is the amount of energy released when an isolated gaseous 
+atom gains an electron to form a negative ion.
+Example: Cl(g) + e⁻ → Cl⁻(g)
+Trend Across a Period: Electron affinity generally increases (becomes more negative).
+Atoms attract additional electrons more strongly due to increased nuclear charge.  
+Trend Down a Group: Electron affinity generally decreases (becomes less negative).
+Increased atomic size reduces the attraction for incoming electrons.  
+3. Atomic Size refers to the overall size or volume occupied by an atom. It is commonly 
+measured using the atomic radius.
+Trend Across a Period: Atomic size decreases. Increasing nuclear charge pulls electrons 
+closer to the nucleus.  
+Trend Down a Group: Atomic size increases, more electron shells are added.  
+4. Atomic Radius: Is half the distance between the nuclei of two identical atoms bonded 
+together.
+Trend Across a Period: Atomic radius decreases because Effective nuclear charge 
+increases, pulling electrons closer.  
+Trend Down a Group: Atomic radius increases, Additional energy levels increase the 
+distance between the nucleus and the outermost electron
+5.Ionic Size: Is the overall size of an ion after an atom has gained or lost electrons.
+Key Points
+• Positive ions (cations) are smaller than their parent atoms because electrons are lost.  
+• Negative ions (anions) are larger than their parent atoms because electrons are gained.  
+Trend Across a Period: Ionic size generally decreases among ions of the same charge.
+Trend Down a Group: Ionic size increases because additional electron shells are present.  
+6. Ionic Radius: Is the distance from the nucleus to the outermost electron in an ion.
+Trend Across a Period: Ionic radius generally decreases among similar ions due to 
+increasing nuclear charge.  
+Trend Down a Group: Ionic radius increases because more electron shells are added.   
+7. Electronegativity: Is the ability of an atom in a chemical bond to attract the shared 
+electrons toward itself.
+Trend Across a Period: Electronegativity increases.  
+• Atoms have greater attraction for bonding electrons due to increasing nuclear charge.  
+Trend Down a Group: Electronegativity decreases, Larger atomic size and greater 
+shielding reduce the attraction for bonding electrons.  
+Summary Table of Periodic Trends
+Property    
+Ionization Energy     
+Electron Affinity     
+Atomic Size     
+Atomic Radius     
+Ionic Size     
+Ionic Radius     
+Electronegativity     
+DIAGONAL RELATIONSHIP
+Across a Period
+Increases    
+Increases (more negative)    
+Decreases    
+Decreases    
+Generally, decreases       
+Decreases    
+Increases    
+Down a Group
+Decreases
+Decreases
+Increases
+Increases
+Increases
+Increases
+Decreases
+Because metallic character increases down a group and decreases from left to right 
+along a period, there exists a diagonal relationship between the chemical properties of 
+the first member of a group and that of the second member of the next group as in the 
+cases of lithium and magnesium on one hand, and beryllium and aluminum on the 
+other (see the periodic table)
+Li                      Be                             B                       C
+Na                     Mg                             Al                   Si
+Applications of Periodic Trends
+• Predicting the chemical reactivity of elements.  
+• Explaining the formation of ions.  
+• Understanding the types of chemical bonds formed.  
+• Comparing the strengths of metallic and non-metallic elements.
+Assignment
+1. Define the following terms: Ionization energy, Electron affinity, atomic radius, Ionic 
+radius, Electronegativity  
+2. State the trend of each property across a period and down a group.  
+3. Explain why: Atomic size decreases across a period, Electronegativity decreases down 
+a group. Ionization energy increases across a period.  
+WEEK: Three
+BASIC CONCEPT: REACTANTS AND PRODUCTS
+Rate of Chemical Reaction
+The rate of a chemical reaction is the change in the amount (or concentration)
+of reactants or products per unit time. It can also be defined as the speed at
+which reactants are converted into products. Unit is moldm-3s-1
+4NH3(g) + O2(g)          
+      4NO(g) + 6H2O(g)
+Reactants                         Products
+Expression for Rate of Reaction
+The rate of reaction can be expressed as:
+Rate = Change in quantity of reactant or product ÷ Time taken
+Formula
+Rate = ΔQuantity / ΔTime
+OR
+Rate = ΔConcentration / ΔTime
+Calculations on rate of chemical reaction
+Example 1
+A reaction produces 120cm³ of hydrogen gas in 30seconds.
+Calculate the rate of reaction.
+Solution
+Given:
+Volume = 120 cm³
+Time = 30 s
+Rate = Volume ÷ Time
+Rate = 120 ÷ 30
+Rate = 4 cm³/s
+Example 2
+A piece of zinc loses 18g in 6minutes during a reaction.
+Calculate the reaction rate.
+Solution
+Rate = Mass lost ÷ Time
+Rate = 18 ÷ 6
+Rate = 3 g/min
+Example 3
+The concentration of hydrochloric acid decreases from 2.0 mol/dm³ to 0.8
+mol/dm³ in 4 minutes.
+Calculate the average rate of reaction.
+Solution
+Change in concentration
+= 2.0 − 0.8
+= 1.2 mol/dm³
+Rate
+= 1.2 ÷ 4
+Rate = 0.30 mol/dm³/min
+Example 4
+A reaction produces 300 cm³ of oxygen gas in 5 minutes.
+Calculate the rate in:
+(a) cm³/min
+(b) cm³/s
+Solution
+(a)
+Rate
+= 300 ÷ 5
+= 60 cm³/min
+(b)
+5 minutes = 300 seconds
+Rate
+= 300 ÷ 300
+= 1 cm³/s
+Collision Theory
+Collision theory states that a chemical reaction occurs only when the reacting
+particles collide with sufficient energy (equal to or greater than the activation
+energy), and the correct orientation. Only collisions that meet these conditions
+are called effective or successful collision
+Types of Collisions
+1. Ineffective Collision
+This is a collision that does not produce a chemical reaction because: the
+particles possess insufficient energy, or they collide in the wrong orientation.  
+Example:
+Hydrogen and oxygen molecules may collide many times without reacting if the
+collisions do not have enough energy.
+2. EFFECTIVE COLLISION
+An effective collision is one that results in a chemical reaction because the
+particles possess enough energy, and they collide in the proper orientation.
+Effective collisions lead to the breaking of old bonds and the formation of new
+chemical bond
+Conditions for Effective Collision
+1. Sufficient Energy
+The colliding particles must have energy equal to or greater than the activation
+energy.
+Activation Energy (Ea)
+Activation energy is the undergo a minimum amount of energy required for
+reacting particles to successful chemical reaction. If particles possess less than
+this energy, no reaction occurs. Example. Hydrogen and oxygen require a spark
+before combining explosively because the spark provides the activation energy.
+ASSIGNMENT:  
+1. (a) State in three short sentences on the main ideas of the collision theory.
+2. State how the rate of a chemical reaction is affected by the following
+factors.
+(a) Concentration (b) surface area
+WEEK: Four
+FACTORS AFFECTING THE RATE OF CHEMICAL REACTION
+The rate at which reaction takes place will be affected by the following factors:
+1. Nature of reactant: The chemical nature of the reactants taking part in the
+reaction influences the rate of reaction. For instance, if iron, zinc and gold metals
+are placed in different beaker continually Hydro chloric acid, there will be rapid
+evolution in the beaker containing the acid and zinc metal wherein the beaker
+containing Iron metal and the acid there will be slower evolution of hydrogen gas
+and in the beaker containing gold metal and the acid solution there will be no
+reaction.
+2. Effect of concentration / pressure (gases) of reactants: If reactant particles are
+crowded in a particular place, their frequency of collision will be faster than if
+the particles are far to one another. Thus, the more the concentration of reactant
+particles and the higher the rate of reaction.
+a. Pressure affects the concentration of gaseous reactant, the higher the pressure
+of gaseous reactants, the higher the frequency of collision of the particles the
+higher the rate of reaction.
+3. Effect of surface area of the reactants: the more exposed the area of contact of
+reacting particles to each other the faster the rate of reaction. For solid reactants
+the exposed surface area must be increased by subdividing or breaking the solid
+into smaller pieces.
+i. Where the reactants are gases, liquids or solids dissolved in solution, the
+thoroughness of mixing is of vital importance so as to ensure maximum contact
+between the reactants.
+4. Effect of temperature of reaction mixture: The higher the temperature the higher
+the rate of reaction of most reactions. When the temperature of a chemical
+reaction is increased, the number of particles with energies equal to or greater
+than the activation energy increases. Also, the kinetic energy of the reactant
+particles increases which implies increase in frequency of effective collision and
+increase in the rate of reaction.
+5. Effect of the presence of light: Reactions whose rates are affected by light are
+called photochemical reactions. The reactant energy. They are thus able to
+overcome the activation energy barrier and react rapidly by a chain reaction.
+6. The rate Examples: i. The decomposition of hydrogen peroxide
+ii. The reactions between methane and chlorine
+ii. Photosynthesis
+iii. The conversion of silver halides to grey metallic silver
+6. Effect of catalyst: catalyst will alter the rate of a chemical reaction but     
+Itself does not undergo any permanent change at the end of the reaction.
+Catalysts that speed up the rate of a chemical reaction are called positive
+catalyst. They lower the activation energies of the reactant particles so more
+reactant particles are able to collide effectively to produce more products. E.g.
+Manganese (iv) oxide, MnO2 catalysts is used in the production of oxygen thermal
+decomposition of KClO3
+ENDOTHERMIC AND EXOTHERMIC REACTION
+An endothermic reaction is a chemical reaction that absorbs heat energy from
+its surroundings, as heat is absorbed, the surroundings become cooler, the
+products contain more energy than the reactants, The enthalpy change (ΔH) is
+positive (+).  
+General Equation: Reactants + Heat → Products
+Characteristics of Endothermic Reactions: Heat is absorbed, Temperature of
+the surroundings decreases, Products have higher energy than reactants, ΔH is
+positive.  
+Examples of Endothermic Reactions: Photosynthesis, thermal decomposition
+of calcium carbonate, Electrolysis of water, Melting of ice. Evaporation of water  
+Uses of Endothermic Reactions
+• Instant cold packs for sports injuries  
+• Photosynthesis in plants  
+• Cooling systems  
+• Industrial decomposition of limestone  
+(a) N2(g) + O2(g)             
+     2NO(g)  
+180.6KJmol -1
+Exothermic Reactions
+∆H=
+An exothermic reaction is a chemical reaction that releases heat energy into
+the surroundings. As heat is released: The surroundings become warmer. The
+products contain less energy than the reactants. The enthalpy change (ΔH) is
+negative (−).  
+General Equation: Reactants → Products + Heat
+Examples of Exothermic Reactions: Combustion (burning of fuels),
+Respiration, Neutralization of acids and bases, Condensation of steam  
+Uses of Exothermic Reactions: Cooking with gas, Heating homes, Power
+generation, Hand warmers, Automobile engines  
+(B) Example of exothermic reaction.
+C(s) + O2(g)                        
+CO2(g)
+∆H = - 408KJmol –1
+Note: The negative and the positive signs indicating in the above figures indicate
+exothermic and endothermic reactions respectively.
+ASSIGNMENT:  
+1. State and explain five factors that affect the rate of a chemical reaction.   
+2. Using suitable examples, describe how temperature and surface area
+influence the rate of chemical reactions.  
+3.  Differentiate between exothermic and endothermic reaction.
+4. Explain the energy changes that occur during endothermic and
+exothermic reactions using suitable example
+WEEK: five  
+CHEMICAL EQULIBRIUM: A dynamic equilibrium involving a chemical equilibrium.
+We shall be looking at dynamic V in reversible chemical reactions. A reversible reaction
+is one that proceeds in both directions under suitable conditions.
+Examples are
+(a) N2O4              
+(b) 2H2(g) + O2(g)       
+2NO2(g)
+ 2H2O(g)
+A reversible reaction is in dynamic equilibrium when both the forward and the
+backward reactions are occurring at the same rate, thereby producing no net
+change in the concentrations of the reactants or products
+EVALUATION: Write four examples of reversible reactions.
+LE CHATELIER’S PRINCIPLE  
+Le hatelier’s principal stares that if an external constraint such as a change to
+temperature, pressure or concentration is imposed on a chemical system in
+equilibrium, the equilibrium will shift so as to annul or neutralize the constraint.
+FACTORS AFFECTING EQUILIBIUM OF A CHEMICAL REACTION
+1. EFFCT OF A CHANGE IN TEMPERATURE e.g. For the following systems
+at equilibrium
+(a) 2SO3(g) + O2(g)         
+    2SO3   H = - 395.7 Kjmol –1
+The forward equation is exothermic i.e. it involves increase in temperature
+whereas the backward equation is endothermic or it involves decrease in
+temperature.
+If the temperature of the system is increased:
+Increase in the temperature of the system will cause the equilibrium positon of
+the backward reaction, that is , reactant formation.
+If the temperature of the system is decreased:
+Decrease in the temperature of the system will cause the equilibrium position to
+shift to the right favouring the forward reaction, that is, product formation.
+(b) N2(g) + O2              2NO(g)
+H = +90.4Kjmol –1
+When the system is at equilibrium, the forward reaction is endothermic and the
+backward reaction is exothermic.
+If the temperature of the system is increased:
+Increase in the temperature of the system will cause the equilibrium position to
+shift to the right favoring forward reaction. i.e. product formation.
+If the temperature of the system is decreased:
+Decrease in the temperature of the system will cause the equilibrium position to
+shift to the left favoring the backward reaction.
+2. EFFECT OF A CHANGE IN PRESSURE:
+For a change in pressure to affect a chemical system in equilibrium.
+(a) One of the reactants in the or products in the reversible reaction must
+be gaseous.
+(b) The total number of gaseous molecules on the left side of the equation
+must be different from the total number of moles of gaseous molecules
+on the right side.
+For the following systems at equilibrium
+(a) 3H2(g) + N2(g)           
+    2NH3(g)  
+The forward reaction is from high pressure to low pressure and the backward
+reaction is from low pressure to high pressure.
+Increase in pressure of the system:
+When the pressure of the system is increased the equilibrium position will
+shift to the right favoring the forward reaction that is, the product formation.
+Decrease in the pressure of the system:
+When the pressure of the system is decreased the equilibrium position will
+shift to the left favoring the backward reaction that is reactant formation.
+(b) N2O4(g)        
+      2NO2(g)  
+When the system is at equilibrium, the forward reaction involves an increase in
+the pressure of the system and the backward reaction involved a decrease in the
+pressure of the system.
+If the pressure of the system is decreased:
+A decrease in the pressure of the system will cause the equilibrium position to
+shift to the right favoring the forward reaction that is, product formation.
+If the pressure of the system is increased:
+An increase in the pressure of the system will cause the equilibrium position to
+shift to the left favoring the backward reaction that is, reactant formation
+(c) H2(g) + I2(g)      
+     2HI(g)   
+A change in pressure will not affect this system at equilibrium because the
+number of moles of the reactants is the same as the number of moles of the
+product.
+(d) 3Fe(s) + 4H2O(g)       
+      Fe3O4(s) +4H2(g)  
+A change in pressure will not affect this system at equilibrium because the
+number of moles of gaseous reactant and product is the same.
+3. EFFECT OF A CHANGE IN CONCENTRAION
+E.g. 3Fe(s) + 4H2O (g)               Fe3O4(s) + 4H2(g)
+If the concentration of any of the reactants is increased the equilibrium position
+will shift to the right but if it is decreased it will shift to the left.  
+Also, removal of any of the reactant or product will also cause the equilibrium
+position to shift. E.g. removal of hydrogen gas from the system will cause the
+equilibrium position to shift to the right.
+4. EFFECT OF A CATALYST
+Addition of a catalyst to a system in equilibrium will not affect the equilibrium
+position. Instead, addition of catalysts will only make equilibrium state to be
+reached attained faster.
+EXPRESSION OF EQUILIBRIUM CONSTANT KC
+In a reaction: aA + bB             cC +dD
+The equilibrium constant KC is expressed as follow:
+KC = [𝐶]𝑐 𝐷𝑑
+[𝐴]𝑎 [𝐵]𝑏
+Note: The species must be written in a square bracket as shown above e.g. in the
+reaction:
+(a) 2SO2(g) + O2(g)        
+The equilibrium expression
+KC = [SO3]2
+[SO2]2 [𝑂2]
+(b) N2(g) +3H2(g)             
+     2SO3(g)
+ 2NH3(g)   
+KC = [NH3]2
+[N2]2 [𝐻2]
+©. N2(g) + O2             
+[NO]2
+[N2] [𝑂2]
+2NO(g)
+ASSIGNMENT
+1. Consider the following equation
+H2S(g) + M2+                  
+MS(aq) + 2H+(aq)
+State and explain the effect of each of the following can the equilibrium
+position
+(a) Increase in temperature
+(b) Addition of solution of M(NO3)2
+(c) Addition of acidified KmnO4(aq)
+2. What is the effect of each of the following on the equilibrium position of
+the system indicated below?
+A(s) + B(g)               C(g)   H = - xKLmol-1
+(a) Cooling the system
+(b) Removing
+(c) As soon as it is formed
+3. Write the express of equilibrium constant for
+2AB2(g) + B2(g)         
+      2AB3(g)
+4. Consider the reaction represented by the equation
+N2O4(g)          2NO2(g)
+H = +57.2Kjmol-1
+(a) When is the reaction said to be at equilibrium
+(b) Mention two conditions that can favour the forward reaction.
+(c) Name the principle involved in (b) above
+(d) Addition of catalyst.

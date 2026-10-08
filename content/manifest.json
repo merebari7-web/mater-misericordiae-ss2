@@ -1,0 +1,13 @@
+{
+  "school": "Mater Misericordiae Secondary School, Rumomasi",
+  "class": "SS2",
+  "term": "First Term",
+  "session": "2026/2027",
+  "subjects": [
+    {"id":"biology","name":"Biology","icon":"◉","accent":"#0b8177","tint":"#e8f5f2","file":"biology.txt","description":"Biology lesson text as supplied.","weeks":[1,2,3,4,5,6]},
+    {"id":"chemistry","name":"Chemistry","icon":"⚗","accent":"#8a5aa5","tint":"#f3edf8","file":"chemistry.txt","description":"Chemistry lesson text as supplied.","weeks":[1,2,3,4,5]},
+    {"id":"digital-technology","name":"Digital Technology","icon":"▣","accent":"#3269a8","tint":"#edf3fb","file":"digital-technology.txt","description":"Digital Technology lesson text as supplied.","weeks":[1,2,3,4,5,6]},
+    {"id":"citizenship-heritage","name":"Citizenship and Heritage Studies","icon":"⚖","accent":"#b67827","tint":"#fbf3e5","file":"citizenship-heritage.txt","description":"Citizenship and Heritage Studies lesson text as supplied.","weeks":[1,2,3,4,5,6]},
+    {"id":"english-language","name":"English Language","icon":"Aa","accent":"#bb5e62","tint":"#fbefef","file":"english-language.txt","description":"English Language lesson text as supplied.","weeks":[1,2,3,4,5,6]}
+  ]
+}
